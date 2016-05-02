@@ -6,9 +6,19 @@ Traditionally EA is the study of reductions in agency slack between congress and
 
 Contemporary EA must study something different if it is to remain empirically and normatively relevant. 
 
-Delegation not congress - many hands 
-Nudge and new tools 
+1. Policymaking has become more complex. Delegation not congress - many hands 
+
+2. Law is still very important, but there is a growth in new tools, like nudging  
+
+3. So what happens when voters win? 
+Primary workproduct of legislators: laws
+Our best thinking about law: it’s the kind of thing that must be stable 
+In other words, the legislators must change, but they can’t change law 
+Lest reasonable expectations be upset 
+Me: Debias these theories and show law need not be stable 
+
 Debiasing 
+
 Change and success 
 
 VO Key famously declare voters the rational … 
@@ -29,12 +39,6 @@ Traditional studies have little say to bat what happens afterwards. They are bui
 
 
 (After my debiasing intervention) 
-So what happens when voters win? 
-Primary workproduct of legislators: laws
-Our best thinking about law: it’s the kind of thing that must be stable 
-In other words, the legislators must change, but they can’t change law 
-Lest reasonable expectations be upset 
-Me: Debias these theories and show law need not be stable 
 
 
 1. Two main institutional strategies for reducing agency slack inherent in representative government
