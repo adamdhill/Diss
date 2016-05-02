@@ -1,20 +1,20 @@
 #Chapter 1
 
-A behavioral approach to contemporary electoral accountability 
+A behavioral approach to contemporary electoral accountability
 
 Traditionally EA is the study of reductions in agency slack between congress and the people. Ashworth2012. Normative connection.
 
-Contemporary EA must study something different if it is to remain empirically and normatively relevant. 
+Contemporary EA must study something different if it is to remain empirically and normatively relevant.
 
 ##Contemporary EA
 
-###Complexity 
+###Complexity
 
-Policymaking has become more complex. Delegation not congress - many hands 
+Policymaking has become more complex. Delegation not congress - many hands
 
 Increasing number of actors
 
-###New tools 
+###New tools
 
 Law is still very important, but there is a growth in new tools, like nudging  
 
@@ -22,51 +22,47 @@ Technocracy - new types of tools
 
 ###Change   
 
-How do we deal with success? What happens when voters win? 
+How do we deal with success? What happens when voters win?
 
 Primary workproduct of legislators: laws
 
-Our best thinking about law: it’s the kind of thing that must be stable 
+Our best thinking about law: it’s the kind of thing that must be stable
 
-In other words, the legislators must change, but they can’t change law, lest reasonable expectations be upset. 
+In other words, the legislators must change, but they can’t change law, lest reasonable expectations be upset.
 
-This is at odds with fast changing world. 
+This is at odds with fast changing world.
 
 ## What we know about voters
 
-VO Key famously declare voters the rational … 
-Generations of scholars have tested that claim. 
+VO Key famously declare voters the rational …
+Generations of scholars have tested that claim.
 Depending on who you listen to, Voters are ignorant, rationally ignorant, …
-Lupia - Uninformed 
+Lupia - Uninformed
 
 ###A normative benchmark
 
-Whatever nasty things you can say about voters' intelligence or beliefs, it is clear that they establish a normative benchmark. 
+Whatever nasty things you can say about voters' intelligence or beliefs, it is clear that they establish a normative benchmark.
 
-But what is clear is that voting for representatives is the normative benchmark 
+But what is clear is that voting for representatives is the normative benchmark
 
-Elections are at center of unrivaled normative hegemon. Kolodny2014 on democratic decision making 
+Elections are at center of unrivaled normative hegemon. Kolodny2014 on democratic decision making
 
-Whatever negative conclusions you might draw about voters ability to shape elections, it is clear that is has been *good enough* to be the lynchpin moment in an unrivaled institutional practice. 
+Whatever negative conclusions you might draw about voters ability to shape elections, it is clear that is has been *good enough* to be the lynchpin moment in an unrivaled institutional practice.
 
-Voters perform *well enough* to ground the legitimacy of the practice. Kutz- correspondence confirmed by electoral institutions- legitimacy. Legitimacy is product of practice and theory. 
+Voters perform *well enough* to ground the legitimacy of the practice. Kutz- correspondence confirmed by electoral institutions- legitimacy. Legitimacy is product of practice and theory.
 
-Further analysis of Key’s original question is certainly not unwarranted. But it may well be beside the point.
+Further analysis of Key’s original question is certainly not unwarranted. Further refining our understanding of traditional EA is important. But it may well be beside the point.
 
-### New tests 
+### New tests
 
-What we need instead are fresh indicators of how well all of us - not just voters - are able to hold officials accountable for a new set of arrangements and practices. Those outlined above. 
+What we need instead are fresh indicators of how well all of us - not just voters - are able to hold officials accountable for a new set of arrangements and practices. Those outlined above.
 
-Free and fair elections for congressional lawmaking is the normative benchmark. But politics pushes us in new directions. The three things. Benchmark vs three things. 
+Free and fair elections for congressional lawmaking is the normative benchmark. But politics pushes us in new directions. The three things. Benchmark vs three things.
 
-If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that. 
+If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
 
-## A behavioral approach 
+## A behavioral approach
 
-Experiments over theory 
+Experiments over theory
 
-Traditional studies have little say to bat what happens afterwards. They are built in a theory of law that is 
-
-
-
-
+Traditional studies have little say to bat what happens afterwards. They are built in a theory of law that is
