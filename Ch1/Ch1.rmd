@@ -6,21 +6,26 @@ Traditionally EA is the study of reductions in agency slack between congress and
 
 Contemporary EA must study something different if it is to remain empirically and normatively relevant. 
 
-1. Policymaking has become more complex. Delegation not congress - many hands 
+##Complexity 
+
+Policymaking has become more complex. Delegation not congress - many hands 
 
 Increasing number of actors
 
-2. Law is still very important, but there is a growth in new tools, like nudging  
+##New tools 
+
+Law is still very important, but there is a growth in new tools, like nudging  
 
 Technocracy - new types of tools
 
-3. 
+##Dealing with success  
 
 So what happens when voters win? 
 Primary workproduct of legislators: laws
 Our best thinking about law: it’s the kind of thing that must be stable 
 In other words, the legislators must change, but they can’t change law 
 Lest reasonable expectations be upset 
+Policy at even larger scale 
 
 
 
@@ -43,4 +48,3 @@ Traditional studies have little say to bat what happens afterwards. They are bui
 
 
 
-Policy at even larger scale 
