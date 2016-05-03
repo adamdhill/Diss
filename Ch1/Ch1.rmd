@@ -1,26 +1,32 @@
-#Chapter 1
+**Chapter 1**
 
 A behavioral approach to contemporary electoral accountability
 
 Traditionally EA is the study of reductions in agency slack between congress and the people. Ashworth2012. Normative connection.
 
-Contemporary EA must study something different if it is to remain empirically and normatively relevant.
+*Contemporary* EA updates the traditional study of EA in two primary ways. In so doing, it remains empirically and normatively relevant.
 
-##Contemporary EA
+# Contemporary EA
 
-###Complexity
+At a substantive level, contemporary EA situates the study of electoral accountability in an environment that highlights important aspects of the contemporary political landscape.
+
+At a contextual level, contemporary EA understands that electoral accountability has grown in significance beyond its original scope. EA is particularly important for administrative law. Assumptions about how EA operates implicate legal doctrine and bureaucratic institutions.  
+
+## Substantive
+
+### Complexity
 
 Policymaking has become more complex. Delegation not congress - many hands
 
 Increasing number of actors
 
-###New tools
+### New tools
 
 Law is still very important, but there is a growth in new tools, like nudging  
 
 Technocracy - new types of tools
 
-###Change   
+### Change   
 
 How do we deal with success? What happens when voters win?
 
@@ -32,14 +38,18 @@ In other words, the legislators must change, but they can’t change law, lest r
 
 This is at odds with fast changing world.
 
-## What we know about voters
+## Contextual
+
+Implications for bureaucratic institutions  
+
+# What we know about voters
 
 VO Key famously declare voters the rational …
 Generations of scholars have tested that claim.
 Depending on who you listen to, Voters are ignorant, rationally ignorant, …
 Lupia - Uninformed
 
-### A normative benchmark
+## A normative benchmark
 
 Whatever nasty things you can say about voters' intelligence or beliefs, it is clear that they establish a normative benchmark.
 
@@ -53,7 +63,7 @@ Voters perform *well enough* to ground the legitimacy of the practice. Kutz- cor
 
 Further analysis of Key’s original question is certainly not unwarranted. Further refining our understanding of traditional EA is important. But it may well be beside the point.
 
-### New tests
+## New tests
 
 Rather than [the exclusive study of how well voters reward and punish their representatives], a contemporary account of EA assesses (individuals' ability to provide external constraints to government action in) the ability of voters to reward and punish a broader and more diverse range of actors.  
 
@@ -63,11 +73,11 @@ This dissertation operationalizes this context in terms of the three factors men
 
 If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
 
-### Accountability Architectures
+## Accountability Architectures
 
 Import from Nudge paper
 
-## A behavioral approach
+# A behavioral approach
 
 Experiments over theory
 
