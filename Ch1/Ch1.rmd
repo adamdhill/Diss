@@ -1,22 +1,26 @@
 **Chapter 1**
-
-# Introduction
-
 A behavioral approach to contemporary electoral accountability
+
+
+# Introduction 
+
+# Traditional EA
 
 Traditionally EA is the study of reductions in agency slack between congress and the people. Ashworth2012. Normative connection.
 
 "Competitive elections create a relationship of formal accountability between policy makers and citizens - electoral rewards and punishments can be handed out on election day. Ideally, this formal accountability leads to better governance." [@Ashworth2012, p. 184]
 
-The more "agency slack" that exists between elected representatives and the people, the worse this formal relationship of accountability. Why***
+The key to improving EA is reducing "agency slack." Abbott2015 on the PA relationship. Fundamentally about delegation. The people grant authority to elected representatives.  
 
-Abbott2015 
+EXPLAIN PA DELEGATION IN TERMS OF (A) DIRECT, NON-COMPLEX RULE, (B) VIA LAW, (C) CHANGE LAW.
 
-*Contemporary* EA updates the traditional study of EA in two primary ways. Empirically, it reflects substantive changes in the institutional environments that support electoral processes. Normatively, ***  In so doing, it remains empirically and normatively relevant.
+Originally, EA was thought to be of primary importance as a tool to understand how voters selected elected officials; (a) who ruled directly (b) through law. If EA is successful, it is assumed that (c) the law will change accordingly. 
 
 # Contemporary EA
 
-At an empirical level, contemporary EA situates the study of electoral accountability in an environment that highlights important aspects of the contemporary political landscape. Originally, EA was thought to be of primary importance as a tool to understand how voters selected elected officials, who ruled directly through law.
+*Contemporary* EA updates the traditional study of EA in two primary ways. Empirically, it reflects substantive changes in the institutional environments that support electoral processes. Normatively, ***  In so doing, it remains empirically and normatively relevant.
+
+At an empirical level, contemporary EA situates the study of electoral accountability in an environment that highlights important aspects of the contemporary political landscape. 
 
 At a normative level, contemporary EA understands that electoral accountability has grown in significance beyond its original scope.  EA is particularly important for administrative law. Assumptions about how EA operates implicate legal doctrine and bureaucratic institutions.  
 
