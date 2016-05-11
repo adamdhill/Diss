@@ -6,6 +6,12 @@ A behavioral approach to contemporary electoral accountability
 
 Traditionally EA is the study of reductions in agency slack between congress and the people. Ashworth2012. Normative connection.
 
+"Competitive elections create a relationship of formal accountability between policy makers and citizens - electoral rewards and punishments can be handed out on election day. Ideally, this formal accountability leads to better governance." [@Ashworth2012, p. 184]
+
+The more "agency slack" that exists between elected representatives and the people, the worse this formal relationship of accountability. Why***
+
+Abbott2015 
+
 *Contemporary* EA updates the traditional study of EA in two primary ways. Empirically, it reflects substantive changes in the institutional environments that support electoral processes. Normatively, ***  In so doing, it remains empirically and normatively relevant.
 
 # Contemporary EA
