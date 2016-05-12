@@ -102,6 +102,16 @@ Traditional studies have little say to bat what happens afterwards. They are bui
 
 The results of this approach to electoral accountability are ***. 
 
-## Debiasing and policy recommendations 
+## The bad news
+
+In broadest terms, new accountability architectures appear to impede electoral accountability. 
+
+Complexity and indirectness reduce the quality of individual judgments about blameworthiness.
+
+## The good news
+
+Debiasing and policy recommendations 
+
+When change *does* occur due to electoral incentives, change is more possible than previously imagined. 
 
 # Roadmap 
