@@ -78,21 +78,11 @@ Whatever negative conclusions you might draw about voters ability to shape elect
 
 Voters perform *well enough* to ground the legitimacy of the practice. Kutz- correspondence confirmed by electoral institutions- legitimacy. Legitimacy is product of practice and theory.
 
-## New tests
-
 If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
-
-"Institutional design" is a popular field of public law. Designers identify problems associated with particular institutional arrangements and propose solutions. Sometimes those solutions are adopted. When they are, we cannot assume that individuals will perform as well at holding officials accountable as they did in the traditional arrangements.
-
-Rather than [the exclusive study of how well voters reward and punish their representatives], a contemporary account of EA assesses (individuals' ability to provide external constraints to government action in) the ability of voters to reward and punish a broader and more diverse range of actors.  
-
-This dissertation operationalizes this context in terms of the three factors mentioned above: complexity, technocracy, and change.
-
-
 
 ## Accountability Architectures
 
-Import from Nudge paper
+"Institutional design" is a popular field of public law. Designers identify problems associated with particular institutional arrangements and propose solutions. Sometimes those solutions are adopted. When they are, we cannot assume that individuals will perform as well at holding officials accountable as they did in the traditional arrangements.
 
 # A behavioral approach
 
