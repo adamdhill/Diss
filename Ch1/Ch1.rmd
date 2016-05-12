@@ -98,4 +98,10 @@ Experiments over theory
 
 Traditional studies have little say to bat what happens afterwards. They are built in a theory of law that is
 
+# Results
+
+The results of this approach to electoral accountability are ***. 
+
+## Debiasing and policy recommendations 
+
 # Roadmap 
