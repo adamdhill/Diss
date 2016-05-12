@@ -66,11 +66,11 @@ Lupia - Uninformed
 
 Brennan - "epistocracy" - against democracy  
 
+Fortunately, this dissertation is designed to avoid these questions. 
+
 ## A normative benchmark
 
 Whatever nasty things you can say about voters' intelligence or beliefs, it is clear that they establish a normative benchmark.
-
-But what is clear is that voting for representatives is the normative benchmark
 
 Elections are at center of unrivaled normative hegemon. Kolodny2014 on democratic decision making
 
@@ -78,9 +78,9 @@ Whatever negative conclusions you might draw about voters ability to shape elect
 
 Voters perform *well enough* to ground the legitimacy of the practice. Kutz- correspondence confirmed by electoral institutions- legitimacy. Legitimacy is product of practice and theory.
 
-Further analysis of Key’s original question is certainly not unwarranted. Further refining our understanding of traditional EA is important. But it may well be beside the point.
-
 ## New tests
+
+If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
 
 Rather than [the exclusive study of how well voters reward and punish their representatives], a contemporary account of EA assesses (individuals' ability to provide external constraints to government action in) the ability of voters to reward and punish a broader and more diverse range of actors.  
 
@@ -88,7 +88,6 @@ This dissertation operationalizes this context in terms of the three factors men
 
 "Institutional design" is a popular field of public law. Designers identify problems associated with particular institutional arrangements and propose solutions. Sometimes those solutions are adopted. When they are, we cannot assume that individuals will perform as well at holding officials accountable as they did in the traditional arrangements.
 
-If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
 
 ## Accountability Architectures
 
