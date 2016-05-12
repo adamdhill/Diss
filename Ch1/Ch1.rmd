@@ -24,7 +24,7 @@ At an empirical level, contemporary EA situates the study of electoral accountab
 
 At a normative level, contemporary EA understands that electoral accountability has grown in significance beyond its original scope.  EA is particularly important for administrative law. Assumptions about how EA operates implicate legal doctrine and bureaucratic institutions.  
 
-## Empirical
+## Empirical updates
 
 ### Complexity
 
@@ -50,7 +50,7 @@ In other words, the legislators must change, but they can’t change law, lest r
 
 This is at odds with fast changing world.
 
-## Normative 
+## Normative updates 
 
 Implications for bureaucratic institutions  
 
@@ -76,15 +76,19 @@ Elections are at center of unrivaled normative hegemon. Kolodny2014 on democrati
 
 Whatever negative conclusions you might draw about voters ability to shape elections, it is clear that is has been *good enough* to be the lynchpin moment in an unrivaled institutional practice.
 
-Voters perform *well enough* to ground the legitimacy of the practice. Kutz- correspondence confirmed by electoral institutions- legitimacy. Legitimacy is product of practice and theory.
-
-If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
+Voters perform *well enough* to ground the legitimacy of the practice. (Kutz- correspondence confirmed by electoral institutions- legitimacy. Legitimacy is product of practice and theory.)
 
 ## Accountability Architectures
 
+If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
+
 "Institutional design" is a popular field of public law. Designers identify problems associated with particular institutional arrangements and propose solutions. Sometimes those solutions are adopted. When they are, we cannot assume that individuals will perform as well at holding officials accountable as they did in the traditional arrangements.
 
+We do *not* know how voters perform under conditions of COMPLEXITY and TOOLS. 
+
 # A behavioral approach
+
+The dissertation offers a *behavioral* approach to 
 
 Experiments over theory
 
