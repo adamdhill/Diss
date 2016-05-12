@@ -88,8 +88,12 @@ We do *not* know how voters perform under conditions of COMPLEXITY and TOOLS.
 
 # A behavioral approach
 
-The dissertation offers a *behavioral* approach to 
+The dissertation offers a *behavioral* approach to contemporary electoral accountability. This approach has two primary components.
+
+## Experimental
 
 Experiments over theory
+
+## Legal Realism 
 
 Traditional studies have little say to bat what happens afterwards. They are built in a theory of law that is
