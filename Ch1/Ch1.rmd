@@ -116,7 +116,11 @@ Second, blameworthiness as proxy for voting patterns - holding all else equal
 
 ## Legal Realism 
 
-Traditional studies have little say to bat what happens afterwards. They are built in a theory of law that is
+Traditionally studies of EA depend on a rigid legal formalism. 
+
+Traditional studies have little say to bat what happens afterwards.
+
+This dissertation integrates into the study of EA a more contemporary view of law. I use the term "legal realism" not to denote the movement of the 1920s and 30s, ***. 
 
 # Results
 
