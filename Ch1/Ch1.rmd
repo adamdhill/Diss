@@ -62,7 +62,8 @@ Generations of scholars have tested that claim.
 
 "Michigan School": Voters are ignorant [@Malhotra2013]
 
-Lupia - Uninformed but rationally so
+Fiorina: voters can use simple performance metrics 
+Lupia - Uninformed but rationally so [@Lupia1994]
 
 Brennan - "epistocracy" - against democracy  
 
@@ -89,6 +90,8 @@ We do *not* know how voters perform under conditions of COMPLEXITY and TOOLS.
 # A behavioral approach
 
 The dissertation offers a *behavioral* approach to contemporary electoral accountability. This approach has two primary components.
+
+Antecedents of the account in [@Anderson2007]
 
 ## Experimental
 
