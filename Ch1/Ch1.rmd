@@ -6,7 +6,10 @@ A behavioral approach to contemporary electoral accountability
 
 # Traditional EA
 
-Since the pathbreaking work of V.O. Key, theories of electoral accountability have sought to explain how, if at all, citizens use competitive elections to officials accountable.   
+Since the pathbreaking work of V.O. Key, theories of electoral accountability have sought to explain how, if at all, citizens use competitive elections to officials accountable.^[K.J. Arrow and A. Downs wrote alongside Key, and together the three defined the modern "economic" approach to democratic theory.] Key sought to use economic models of decision making to explain how rational voters used officials' past performance as the basis for future decisions. [@Key1966] This threat of electoral sanction incentivizes officials to act in the public interest. On this model, elections are "a sanctioning device that induces elected officials to do what the voters want," since "[t]he anticipation of not being reelected in the future leads elected officials not to shirk their obligations to the voters in the present."[@Fearon1999, p. 56]  
+
+
+
 
 EXPLAIN P-A DELEGATION IN TERMS OF (A) DIRECT, NON-COMPLEX RULE, (B) VIA LAW, (C) CHANGE LAW.
 
