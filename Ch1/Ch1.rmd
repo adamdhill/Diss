@@ -6,15 +6,40 @@ A behavioral approach to contemporary electoral accountability
 
 # Traditional EA
 
-Traditionally EA is the study of reductions in agency slack between congress and the people. Ashworth2012. Normative connection.
-
-"Competitive elections create a relationship of formal accountability between policy makers and citizens - electoral rewards and punishments can be handed out on election day. Ideally, this formal accountability leads to better governance." [@Ashworth2012, p. 184]
-
-The key to improving EA is reducing "agency slack." Abbott2015 on the PA relationship. Fundamentally about delegation. The people grant authority to elected representatives.  
+Since the pathbreaking work of V.O. Key, theories of electoral accountability have sought to explain whether, and if so how, citizens use competitive elections to constrain and otherwise hold officials accountable.   
 
 EXPLAIN P-A DELEGATION IN TERMS OF (A) DIRECT, NON-COMPLEX RULE, (B) VIA LAW, (C) CHANGE LAW.
 
 Originally, EA was thought to be of primary importance as a tool to understand how voters selected elected officials; (a) who ruled directly (b) through law. If EA is successful, it is assumed that (c) the law will change accordingly. 
+
+
+
+
+The key to improving EA is reducing "agency slack." Abbott2015 on the PA relationship. Fundamentally about delegation. The people grant authority to elected representatives.  Traditionally EA is the study of reductions in agency slack between congress and the people. Ashworth2012. Normative connection. "Competitive elections create a relationship of formal accountability between policy makers and citizens - electoral rewards and punishments can be handed out on election day. Ideally, this formal accountability leads to better governance." [@Ashworth2012, p. 184]
+
+
+
+
+
+The second step is to model how voters use this information. Put differently, what is the ``reelection rule'' that voters use to make decisions about incumbents and their challengers?\cite{Ashworth2012} Two types of rules stand out: those premised on sanctions, and those premised on selection.\footnote{These two models are not mutually exclusive; they might be combined in various ways.\cite{Fearon1999} Here we present the two pure types.} More abstractly, the sanctions model is a pure moral hazard model, while the selection model is an adverse selection model.\cite[p. 7]{Mesquita.draft}
+
+On the sanctions model, elections ``a sanctioning device that induces elected officials to do what the voters want,'' since ''[t]he anticipation of not being reelected in the future leads elected officials not to shirk their obligations to the voters in the present.''\cite[p. 56]{Fearon1999} Voters' actions are a function of ``their evaluations of officeholders on their actual performance in office rather than on hypothetical promises they might make during a campaign.''\cite[p. 6]{Ferejohn1986} If we assume that voters treat elections thusly, the Executive will be incentivized to exercise what control it does have over agencies to enact popular policies. Applying this view of elections to the DA model, the Executive will be incentivized to enact a ``regulatory vision'' that ``represents the majority will,''\cite[p. 491]{Bressman2003} or else face punishment.  
+
+A more forward looking approach to election is the selection model. Whereas the sanctions model assumed that candidates vying for office are homogenous, and are only distinguished by their policy choices, the selection model assumes the opposite. Voters seek to install officials that match their own ``type.'' [***FILL IN***] ``[V]oters can use the policy choices of politicians to draw inferences about their underlying characteristics ...''\cite[p. 831]{Fox2011}
+
+DA fits most naturally with the sanctions model, but it is not incompatible with the selection model. While election promises are cheap talk, actions reveal information about a candidate's true type. Thus, actions of the agency can reveal information about the type of the Executive (which, presumably, the executive knows, and is incentivized accordingly). 
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Contemporary EA
 
@@ -63,6 +88,7 @@ Generations of scholars have tested that claim.
 "Michigan School": Voters are ignorant [@Malhotra2013]
 
 Fiorina: voters can use simple performance metrics 
+
 Lupia - Uninformed but rationally so [@Lupia1994]
 
 Brennan - "epistocracy" - against democracy  
