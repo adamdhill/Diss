@@ -4,6 +4,10 @@ A behavioral approach to contemporary electoral accountability
 
 # Introduction 
 
+The traditional model of electoral accountability has three serious shortcomings, however. *First*, the traditional model treats elected representatives as the primary actors in government. In fact, the demise of the non-delegation doctrine, and the rise of intra-government delegation, has increased the number of actors involved in making policy. *Second*, the traditional model divides the world into "lawmaking," which is endogenous to politics, and "probabilistic background factors," which are exogenous to politics. In fact, this divide is not nearly so neat. The rise of new regulatory tools, like nudging, has deeply complicated the relationship between endogenous and exogenous factors. *Third*, the traditional model assumes that congresspeople can change course when voters demand it. But this assumption sits uncomfortably with decades of jurisprudence holding that legal change must be slow and gradual, lest it upset reasonable expectations. 
+
+This basic model of electoral accountability has driven half a century of research. It has contributed much to our understanding of how elections produce a correspondence between public outcomes and private preferences. 
+
 # Traditional EA
 
 Since the pathbreaking work of V.O. Key, theories of electoral accountability have sought to explain how, if at all, citizens use competitive elections to officials accountable.^[K.J. Arrow and A. Downs wrote alongside Key, and together the three defined the modern "economic" approach to democratic theory.] Key sought to use economic models of decision making to explain how rational voters used officials' past performance as the basis for future decisions. [@Key1966] This threat of electoral sanction incentivizes officials to act in the public interest. Elections are "a sanctioning device that induces elected officials to do what the voters want," since "[t]he anticipation of not being reelected in the future leads elected officials not to shirk their obligations to the voters in the present."[@Fearon1999, p. 56] The voter, then, is the "rational god of vengeance and reward." [@Key1964, p. 568.]
@@ -14,13 +18,12 @@ Promoting the preferences of voters is important because, on the economic model 
 
 Officeholders, for their part, act by comparing the present value benefit of two alternative income streams: the benefits of impressing the voters and (increasing the probability of) remaining in office versus the benefits of shirking and (increasing the probability of) leaving office. [@Barro1973] Although performance depends jointly on the actions of the officeholder and exogenous factors outside of the officeholder's control, the electorate is able to observe "simple performance metrics," such as the state of the economy. [@Malholtra2013, p. 286] If, as Ronald Reagan asked, voters are "better off [today] than [they] were four years ago," then the officeholder is likely to be reelected. [@Malholtra2013, p. 286]
 
-This basic model of electoral accountability has driven half a century of research. It has contributed much to our understanding of how elections produce a correspondence between public outcomes and private preferences. 
 
-The traditional model of electoral accountability has three serious shortcomings, however. *First*, the traditional model treats elected representatives as the primary actors in government. In fact, the demise of the non-delegation doctrine, and the rise of intra-government delegation, has increased the number of actors involved in making policy. *Second*, the traditional model divides the world into "lawmaking," which is endogenous to politics, and "probabilistic background factors," which are exogenous to politics. In fact, this divide is not nearly so neat. The rise of new regulatory tools, like nudging, has deeply complicated the relationship between endogenous and exogenous factors. *Third*, the traditional model assumes that congresspeople can change course when voters demand it. But this assumption sits uncomfortably with decades of jurisprudence holding that legal change must be slow and gradual, lest it upset reasonable expectations. 
+
 
 # Contemporary EA
 
-*Contemporary* EA updates the traditional study of EA in two primary ways. Empirically, it reflects substantive changes in the institutional environments that support electoral processes. Normatively, ***  In so doing, it remains empirically and normatively relevant.
+*Contemporary* EA updates the traditional study of electoral accountability in two primary ways. Empirically, it reflects substantive changes in the institutional environments that support electoral processes. Normatively, ***  In so doing, it remains empirically and normatively relevant.
 
 At an empirical level, contemporary EA situates the study of electoral accountability in an environment that highlights important aspects of the contemporary political landscape. 
 
