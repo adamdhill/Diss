@@ -18,7 +18,7 @@ Promoting the preferences of voters is important because, on the economic model 
 
 Officeholders, for their part, act by comparing the present value benefit of two alternative income streams: the benefits of impressing the voters and (increasing the probability of) remaining in office versus the benefits of shirking and (increasing the probability of) leaving office. [@Barro1973] Although performance depends jointly on the actions of the officeholder and exogenous factors outside of the officeholder's control, the electorate is able to observe "simple performance metrics," such as the state of the economy. [@Malholtra2013, p. 286] If, as Ronald Reagan asked, voters are "better off [today] than [they] were four years ago," then the officeholder is likely to be reelected. [@Malholtra2013, p. 286]
 
-
+NORMATIVE PIECE
 
 ## Who acts; what do they do?; what happens?; what is the normative significance? 
 
