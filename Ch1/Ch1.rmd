@@ -20,9 +20,6 @@ Officeholders decide by comparing the present value benefit of two alternative i
 
 Traditional EA treats such outcomes as an indication that "elected officials [did] what the voters want." [@Fearon1999, p. 56] We can assume that agent-representatives true preferences differ from those of his constituents. [@Barro1973, p. 25] That is, because the agent-representatives did what the public wants, they diverged from what *they* wanted to do. Thus, if voters are happy, we can assume that elections are operating to incentivize agent-representatives: elections are obliging agent-representatives to act in certain ways, on pain of sanction. [@Fearon1999, p. 55]    
 
-
-NORMATIVE PIECE
-
 ## Who acts; what do they do?; what happens?; what is the normative significance? 
 
 Three empirical features of this traditional approach are particularly salient for our purposes. 
