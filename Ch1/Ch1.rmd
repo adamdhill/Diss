@@ -18,7 +18,7 @@ Promoting the preferences of voters is important because, on the economic model 
 
 Officeholders decide by comparing the present value benefit of two alternative income streams: the benefits of impressing the voters and (increasing the probability of) remaining in office versus the benefits of shirking and (increasing the probability of) leaving office. [@Barro1973] Although performance depends jointly on the actions of the officeholder and exogenous factors outside of the officeholder's control, the electorate is able to observe "simple performance metrics," such as the state of the economy. [@Malholtra2013, p. 286] If, as Ronald Reagan asked, voters are "better off [today] than [they] were four years ago," then the officeholder is likely to be reelected. [@Malholtra2013, p. 286]
 
-Traditional EA treats such outcomes as an indication that "elected officials [did] what the voters want." [@Fearon1999, p. 56] We can assume that agent-representatives true preferences differ from those of his constituents. [@Barro1973, p. 25] That is, because the agent-representatives did what the public wants, they diverged from what *they* wanted to do. Thus, if voters are happy, we can assume that elections are operating to incentivize agent-representatives: elections are obliging agent-representatives to act in certain ways, on pain of sanction. [@Fearon1999, p. 55]    
+Traditional EA treats such outcomes as an indication that "elected officials [did] what the voters want." [@Fearon1999, p. 56] We can assume that agent-representatives true preferences differ from those of his constituents. [@Barro1973, p. 25] That is, because the agent-representatives did what the public wants, they diverged from what *they* wanted to do. Thus, if voters are happy, we can assume that elections are operating to incentivize agent-representatives: elections are obliging agent-representatives to act in certain ways, on pain of sanction. [@Fearon1999, p. 55] This conclusion, in turns, allows an observer to conclude that an "agency relationship," properly so called, exists.    
 
 ## Who acts; what do they do?; what happens?; what is the normative significance? 
 
@@ -29,9 +29,6 @@ First, the primary actors in the system are principal-voters and agent-represent
 Second, only the consequences of policy matter, not the intentions of representative-agents or the means they use to achieve their policies. The types of actions taken by the representative-agents are not themsleves consequential; rather, it is simply assumed that some actions are better for voters than are others. [@Ashworth2014, p. 567] The possible actions taken by the representative-agents are unlimited in theory. But the outcome of the analysis in no way depends on what actions are taken, only their consequences. As a result, the traditional account ignores (a) the intentions behind the act and (b) the mode of action.  
 
 Third, the traditional model of electoral accountability treats policy change as costless.  
-
-These three empirical facets of traditional EA ***
-
 
 # Contemporary EA
 
