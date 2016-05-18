@@ -18,17 +18,17 @@ Promoting the preferences of voters is important because, on the economic model 
 
 Across political, economic, and social life, principals have ways of reducing the "agency costs" that inevitably arise when power is delegated.  These methods seek to reduce the costs of shirking, information asymmetries, monitoring costs, and so forth. In the context of democracy, elections are the primary tool^[They are not, however, the only tool. Separation of powers also operates to reduce agency slack, by reducing the probability that factional interests will confound the general will.] for citizen-principals to reduce the agency costs of a representative democracy. 
 
-If elections are efficacious, officeholders' decisions are driven by a comparison of the present value benefit of two alternative income streams: the benefits of impressing the voters and (increasing the probability of) remaining in office versus the benefits of shirking and (increasing the probability of) leaving office. [@Barro1973] Although performance depends jointly on the actions of the officeholder and exogenous factors outside of the officeholder's control, the electorate is able to observe "simple performance metrics," such as the state of the economy. [@Malholtra2013, p. 286] If, as Ronald Reagan asked, voters are "better off [today] than [they] were four years ago," then the officeholder is likely to be reelected. [@Malholtra2013, p. 286]
+If elections are efficacious, officeholders' decisions are driven by a comparison of the present value benefit of two alternative income streams: the benefits of impressing the voters and (increasing the probability of) remaining in office versus the benefits of shirking and (increasing the probability of) leaving office. [@Barro1973] Although performance depends jointly on the actions of the officeholder and exogenous factors outside of the officeholder's control, the electorate is able to observe "simple performance metrics," such as the state of the economy. [@Malhotra2013, p. 286] If, as Ronald Reagan asked, voters are "better off [today] than [they] were four years ago," then the officeholder is likely to be reelected. [@Malhotra2013, p. 286]
 
 Traditional EA treats such outcomes as an indication that "elected officials [did] what the voters want." [@Fearon1999, p. 56] We can assume that agent-representatives true preferences differ from those of his constituents. [@Barro1973, p. 25] That is, because the agent-representatives did what the public wants, they diverged from what *they* wanted to do. Thus, if voters are happy, we can assume that elections are operating to incentivize agent-representatives: elections are obliging agent-representatives to act in certain ways, on pain of sanction. [@Fearon1999, p. 55] This conclusion, in turns, allows an observer to conclude that an "agency relationship," properly so called, exists.    
 
 STILL NEED CLEARER STATEMENT ABOUT NORMATIVITY 
 
-## Who acts; what do they do?; what happens?; what is the normative significance? 
+## Question marks about the traditional account  
 
-INTEGRATE THIS SECTION INTO THE ABOVE? PROBABLY SO. 
+Who acts; what do they do?; what happens?; what is the normative significance? 
 
-Three empirical features of this traditional approach are particularly salient for our purposes. 
+Three empirical features of the traditional approach are particularly salient for our purposes. These three features stand out as  
 
 First, the primary actors in the system are principal-voters and agent-representatives. The administrative state is not a meaningful part of the story. Traditional approaches have sought to incorporate the administrative state; but those accounts stress that "it is not a bureaucratic imperative that drives agency decisionmaking but rather a congressional-electoral one." [@Weingast1984, p. 149] Agencies that fail to adhere to congressional discipline are sanctioned; "political discipline and motivation for regulatory policy choice works through Congress." [@Weingast1984, p. 149]
 
