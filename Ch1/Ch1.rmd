@@ -24,11 +24,11 @@ Traditional EA treats such outcomes as an indication that "elected officials [di
 
 STILL NEED CLEARER STATEMENT ABOUT NORMATIVITY 
 
-## Question marks about the traditional account  
+## Questions about the traditional account  
 
 Who acts; what do they do?; what happens?; what is the normative significance? 
 
-Three empirical features of the traditional approach are particularly salient for our purposes. These three features stand out as  
+Three empirical features of the traditional approach are particularly salient for our purposes. These three features stand out as out of step with current trends. 
 
 First, the primary actors in the system are principal-voters and agent-representatives. The administrative state is not a meaningful part of the story. Traditional approaches have sought to incorporate the administrative state; but those accounts stress that "it is not a bureaucratic imperative that drives agency decisionmaking but rather a congressional-electoral one." [@Weingast1984, p. 149] Agencies that fail to adhere to congressional discipline are sanctioned; "political discipline and motivation for regulatory policy choice works through Congress." [@Weingast1984, p. 149]
 
@@ -39,6 +39,8 @@ Third, the traditional model of electoral accountability treats policy change as
 Normative significance: The relationship between citizens and elected representatives is validated. But the relationship between citizens and the rest of government is not. Agency relationships explain the normative significance of a relationship between principal and agent, but it struggles with explaining the relationship of third parties. This is particularly true when the third parties play a significant role. 
 
 # Contemporary EA
+
+After showing the empirical problems in the prior subsection, and the normative problems that creates, this section offers an empirical path for updating our inquiries. 
 
 *Contemporary* EA updates the traditional study of electoral accountability in two primary ways. Empirically, it reflects substantive changes in the institutional environments that support electoral processes. Normatively, ***  In so doing, it remains empirically and normatively relevant.
 
