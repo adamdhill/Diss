@@ -24,11 +24,15 @@ If elections are efficacious, officeholders' decisions are driven by a compariso
 
 Traditional EA treats such outcomes as an indication that "elected officials [did] what the voters want." [@Fearon1999, p. 56] We can assume that agent-representatives true preferences differ from those of his constituents. [@Barro1973, p. 25] That is, because the agent-representatives did what the public wants, they diverged from what *they* wanted to do. Thus, if voters are happy, we can assume that elections are operating to incentivize agent-representatives: elections are obliging agent-representatives to act in certain ways, on pain of sanction. [@Fearon1999, p. 55] This conclusion, in turns, allows an observer to conclude that a contractual agency relationship exists.
 
-The existence of an agency relationship, in turn, authorizes otherwise ordinary individuals to govern through coercive measures. To put it differently, if we could *not* identify a mechanism through which public preferences were reliably turned into policy, we could conclude that the purported agent-representatives are, in fact, not authorized to govern coercively.          
+The existence of an agency relationship, in turn, authorizes otherwise ordinary individuals to govern through coercive measures. 
 
-## How much of our current political practice does the Traditional account cover?  
+# What is ultra vires for us?  
 
-If we flip the question around, 
+We can put the question another way: 
+
+To put it differently, if we could *not* identify a mechanism through which public preferences were reliably turned into policy, we could conclude that the purported agent-representatives are, in fact, not authorized to govern coercively.          
+
+ 
 
 Who acts; what do they do?; what happens?; what is the normative significance? 
 
