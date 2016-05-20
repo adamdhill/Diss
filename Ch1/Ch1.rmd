@@ -26,7 +26,9 @@ Traditional EA treats such outcomes as an indication that "elected officials [di
 
 The existence of an agency relationship, in turn, authorizes otherwise ordinary individuals to govern through coercive measures. To put it differently, if we could *not* identify a mechanism through which public preferences were reliably turned into policy, we could conclude that the purported agent-representatives are, in fact, not authorized to govern coercively.          
 
-# What is ultra vires for us?  
+# Traditional EA Renders Its Verdict	 
+
+Around the time Traditional EA was developing, Theodore Lowi wrote *The End of Liberalism*. Lowi didn't pull any punches. Reflecting on the state of American public law, Lowi concluded that "the delegation of broad and undefined discretionary power from the legislature to the executive branch deranges virtually all constitutional relationships and prevents attainment of the constitutional goals of limitation on power, substantive calculability, and procedural calculability." [@Lowi1986, p. 296] 
 
 On the traditional account, if we observe governance institutions whose (economic) policy is *not* the product of citizens' preferences, then we can conclude that an agency relationship does not exist.
 
