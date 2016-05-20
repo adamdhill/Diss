@@ -32,7 +32,9 @@ Traditional EA is one of the most successful instances of what came to be called
 Mechanism design "can be thought of as the 'engineering' side of economic theory." [@Maskin2008, p. 567] 
 
 Design real-world mechanisms 
+
 or 
+
 Explain why real-world are as they are by interpreting them as rational choices of those who designed them. [@Borgers2015, p. 2]
 
 Mechanism design begins by identifying a desired outcome and then seeks to create institutions that achieve that goal. ^["Mechanism design is narrower than "institutional design." The latter seeks all-in evaluations of institutions, a project that incorporates not only predictions about outcomes but also value considerations.] 
