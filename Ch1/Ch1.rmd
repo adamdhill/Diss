@@ -26,17 +26,11 @@ Traditional EA treats such outcomes as an indication that "elected officials [di
 
 The existence of an agency relationship, in turn, authorizes otherwise ordinary individuals to govern through coercive measures. To put it differently, if we could *not* identify a mechanism through which public preferences were reliably turned into policy, we could conclude that the purported agent-representatives are, in fact, not authorized to govern coercively.          
 
-# Traditional EA Renders Its Verdict	 
+# Who does what, and why does it matter? Mechanism Design 
 
-Around the time Traditional EA was developing, Theodore Lowi wrote *The End of Liberalism*. Lowi didn't pull any punches. Reflecting on the state of American public law, Lowi concluded that "the delegation of broad and undefined discretionary power from the legislature to the executive branch deranges virtually all constitutional relationships and prevents attainment of the constitutional goals of limitation on power, substantive calculability, and procedural calculability." [@Lowi1986, p. 296] 
+Traditional EA is one of the most successful instances of what came to be called "mechanism design." [@Maskin2008] Mechanism design "can be thought of as the 'engineering' side of economic theory." [@Maskin2008, p. 567] Mechanism design begins by identifying a desired outcome and then seeks to create institutions that achieve that goal. ^["Mechanism design is narrower than "institutional design." The latter seeks all-in evaluations of institutions, a project that incorporates not only predictions about outcomes but also value considerations.] 
 
-On the traditional account, if we observe governance institutions whose (economic) policy is *not* the product of citizens' preferences, then we can conclude that an agency relationship does not exist.
-
- 
-
- 
-
-Who acts; what do they do?; what happens?; what is the normative significance? 
+Issues of mechanism design are interesting because, typically, we do not know, ex ante, what the optimal outcome is. The mechanisms must generate the information. Ordinarily, the market is the best mechanism.  
 
 Three empirical features of the traditional approach are particularly salient for our purposes. These three features stand out as out of step with current trends. 
 
