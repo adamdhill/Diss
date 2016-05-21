@@ -33,7 +33,8 @@ In order to know how to evaluate these empirical claims, and their normative con
 Traditional EA is one of the most successful instances of an approach to social that came to be called "mechanism design." [@Maskin2008] Broadly, mechanism design "can be thought of as the 'engineering' side of economic theory." [@Maskin2008, p. 567] Where game theory "takes the rules of the game as given, and [] makes predictions about the behavior of strategic players," mechanism design "is about the optimal choice of the rules of the game." [@Borgers2015, p. 2] This decision is made by identifying a desired outcome and then seeking to create institutions that achieve that goal. ^["Mechanism design is narrower than "institutional design." The latter seeks all-in evaluations of institutions, a project that incorporates not only predictions about outcomes but also value considerations.] Alternatively, mechanism design my proceed by identifying real-world institutions and interpreting those institutions as a product of rational choices by their designers. [@Borgers2015] 
 
 IF NEED MORE ON 'WHAT KIND OF THEORY IS IT' THEN IMPORT FROM CHAPTER 2
-STATE THAT MD REQUIRES THESE THREE THINGS
+
+How well does Traditional EA function as a mechanism design? 
 
 Must capture -- The primary actors; the possible actions available to the actors; the consequences of the actions
 
