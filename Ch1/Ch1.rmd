@@ -26,10 +26,9 @@ Traditional EA treats such outcomes as an indication that "elected officials [di
 
 The existence of an agency relationship, in turn, authorizes otherwise ordinary individuals to govern through coercive measures. To put it differently, if we could *not* identify a mechanism through which public preferences were reliably turned into policy, we could conclude that the purported agent-representatives are, in fact, not authorized to govern coercively.          
 
-# Who does what, and why does it matter? Mechanism Design 
+# What *is* a Theory of Electoral Accountability? A Brief Overview of Mechanism Design 
 
-Traditional EA is one of the most successful instances of what came to be called "mechanism design." [@Maskin2008] 
-Mechanism design "can be thought of as the 'engineering' side of economic theory." [@Maskin2008, p. 567] 
+Traditional EA is one of the most successful instances of an approach to social that came to be called "mechanism design." [@Maskin2008] Broadly, mechanism design "can be thought of as the 'engineering' side of economic theory." [@Maskin2008, p. 567] Where game theory "takes the rules of the game as given, and [] makes predictions about the behavior of strategic players," mechanism design "is about the optimal choice of the rules of the game." [@Borgers2015, p. 2] 
 
 Design real-world mechanisms 
 
