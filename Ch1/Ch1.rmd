@@ -36,7 +36,7 @@ The continued maintenance of agency relationship, as confirmed by the existence 
 
 In order to know how to evaluate these empirical claims, and their normative consequences, we should consider the *type* of theory that is on offer -- what is it trying to do?
 
-ADD THE STUFF ABOUT THE SECOND GOAL AND MORAL HAZARD OF GOVERNMENT FROM FEARON2011
+FRAME WITH MORAL HAZARD OF GOVERNMENT FROM FEARON2011
 PLUS ALSO MAYBE ADD THE STUFF ABOUT ECONOMIC VOTING BEING GOOD PROXY FOR PUBLIC GOODS - MAYBE AS FN
 
 # What *is* a Theory of Electoral Accountability? A Brief Overview of Mechanism Design 
