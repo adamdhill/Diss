@@ -53,14 +53,9 @@ Mechanism designs also vary along another axis: the degree to which they offer a
 
 These two axes produce the following matrix. The bottom right quandrant represents highly abstract, new ideas. The upper left quandrant, by contrast, represents highly concrete, existing institutions.   
 
+### Three concepts required of any implementation 
 
-
-
-## 3 things 
-
-Must capture -- The primary actors; the possible actions available to the actors; the consequences of the actions
-
-Three empirical features of the traditional approach are particularly salient for our purposes. These three features stand out as out of step with current trends. 
+In order to satisfy any approach to mechanism design, a theory must capture the following three concepts. First, it must explain who the primary actors are. Second, it must explain what actions are available to the actors. Third, it must explain the consequences of the actions.^[These requirements are as common sense as they sound. They are implicit in all that I have already argued. I elucidate these requirements here not in order to break new ground; rather, I do so in order to highlight aspects of the Traditional EA account that I will later criticize.]
 
 First, the primary actors in the system are principal-voters and agent-representatives. The administrative state is not a meaningful part of the story. Traditional approaches have sought to incorporate the administrative state; but those accounts stress that "it is not a bureaucratic imperative that drives agency decisionmaking but rather a congressional-electoral one." [@Weingast1984, p. 149] Agencies that fail to adhere to congressional discipline are sanctioned; "political discipline and motivation for regulatory policy choice works through Congress." [@Weingast1984, p. 149]
 
