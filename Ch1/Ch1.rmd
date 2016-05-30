@@ -63,6 +63,13 @@ For Traditional EA, the agents are principal-voters and agent-representatives. T
 
 # Contemporary EA
 
+*Contemporary* EA updates the traditional study of electoral accountability in two primary ways. Empirically, it reflects substantive changes in the institutional environments that surround the process of lawmaking. Normatively, contemporary EA takes a broader approach to legitimating the relationship between government and citizens. Recall, the empirical structure of the mechanism design is driven by background normative concerns. The growth of the administrative state necessitates a broader approach to accountability. Limiting accountability merely to elected representatives leaves a vast swath of political power unattended to.  
+
+Traditional EA explains the normative significance of the agency relationship between representatives and citizens. But the relationship between citizens and the rest of government is not explained. Some Traditional EA theorists have sought to incorporate an account of the administrative state into Traditional EA. These accounts treat the bureaucracy as agents of elected representatives. These accounts, however, assume that bureaucracies operate like an assembly line.^[See also [@Christiano2005]] In fact, agencies wield discretion to such a degree that they are not appropriately characterized as agents of elected representatives. [@Stewart1975] 
+
+The breadth of policymaking that happens outside of Congress suggests  
+
+
 First, the primary actors in the system are principal-voters and agent-representatives. By contrast, the administrative state is not a meaningful part of the story. A handful of pieces within the Traditional EA approach *have* sought to incorporate the administrative state; but those accounts stress that "it is not a bureaucratic imperative that drives agency decisionmaking but rather a congressional-electoral one." [@Weingast1984, p. 149] Agencies that fail to adhere to congressional discipline are sanctioned; "political discipline and motivation for regulatory policy choice works through Congress." [@Weingast1984, p. 149]
 
 Second, only the consequences of policy matter, not the intentions of representative-agents or the means they use to achieve their policies. The types of actions taken by the representative-agents are not themsleves consequential; rather, it is simply assumed that some actions are better for voters than are others. [@Ashworth2014, p. 567] The possible actions taken by the representative-agents are unlimited in theory. But the outcome of the analysis in no way depends on what actions are taken, only their consequences. As a result, the traditional account ignores (a) the intentions behind the act and (b) the mode of action.  
@@ -70,15 +77,12 @@ Second, only the consequences of policy matter, not the intentions of representa
 Third, the traditional model of electoral accountability treats policy change as costless. That is, it is assumed that, if individual preferences shift, there should be a concomitant shift in policy.  
 
 
-Normative significance: The relationship between citizens and elected representatives is validated. But the relationship between citizens and the rest of government is not. Agency relationships explain the normative significance of a relationship between principal and agent, but it struggles with explaining the relationship of third parties. This is particularly true when the third parties play a significant role. 
 
 After showing the empirical problems in the prior subsection, and the normative problems that creates, this section offers an empirical path for updating our inquiries. 
 
-*Contemporary* EA updates the traditional study of electoral accountability in two primary ways. Empirically, it reflects substantive changes in the institutional environments that support electoral processes. Normatively, ***  In so doing, it remains empirically and normatively relevant.
 
 At an empirical level, contemporary EA situates the study of electoral accountability in an environment that highlights important aspects of the contemporary political landscape. 
 
-At a normative level, contemporary EA understands that electoral accountability has grown in significance beyond its original scope.  EA is particularly important for administrative law. Assumptions about how EA operates implicate legal doctrine and bureaucratic institutions.  
 
 ## Empirical updates
 
