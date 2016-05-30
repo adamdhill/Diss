@@ -67,24 +67,13 @@ For Traditional EA, the agents are principal-voters and agent-representatives. T
 
 Traditional EA explains the normative significance of the agency relationship between representatives and citizens. But the relationship between citizens and the rest of government is not explained. Some Traditional EA theorists have sought to incorporate an account of the administrative state into Traditional EA. These accounts treat the bureaucracy as agents of elected representatives. These accounts, however, assume that bureaucracies operate like an assembly line.^[See also [@Christiano2005]] In fact, agencies wield discretion to such a degree that they are not appropriately characterized as agents of elected representatives. [@Stewart1975] 
 
-The breadth of policymaking that happens outside of Congress suggests  
+We can put the point more forcefully. The breadth of policymaking that happens outside of Congress undercuts the claim that Traditional EA makes about legitimating power relationships. Traditional EA does not explain how voter preferences are transmitted to agencies that create policy. This deficiency undermines the purpose of the Traditional EA account. 
 
-
-First, the primary actors in the system are principal-voters and agent-representatives. By contrast, the administrative state is not a meaningful part of the story. A handful of pieces within the Traditional EA approach *have* sought to incorporate the administrative state; but those accounts stress that "it is not a bureaucratic imperative that drives agency decisionmaking but rather a congressional-electoral one." [@Weingast1984, p. 149] Agencies that fail to adhere to congressional discipline are sanctioned; "political discipline and motivation for regulatory policy choice works through Congress." [@Weingast1984, p. 149]
-
-Second, only the consequences of policy matter, not the intentions of representative-agents or the means they use to achieve their policies. The types of actions taken by the representative-agents are not themsleves consequential; rather, it is simply assumed that some actions are better for voters than are others. [@Ashworth2014, p. 567] The possible actions taken by the representative-agents are unlimited in theory. But the outcome of the analysis in no way depends on what actions are taken, only their consequences. As a result, the traditional account ignores (a) the intentions behind the act and (b) the mode of action.  
-
-Third, the traditional model of electoral accountability treats policy change as costless. That is, it is assumed that, if individual preferences shift, there should be a concomitant shift in policy.  
-
-
-
-After showing the empirical problems in the prior subsection, and the normative problems that creates, this section offers an empirical path for updating our inquiries. 
-
-
-At an empirical level, contemporary EA situates the study of electoral accountability in an environment that highlights important aspects of the contemporary political landscape. 
 
 
 ## Empirical updates
+
+Contemporary EA situates the study of electoral accountability in an environment that highlights important aspects of the contemporary political landscape. 
 
 ### Complexity
 
@@ -92,11 +81,17 @@ Policymaking has become more complex. Delegation not congress - many hands
 
 Increasing number of actors
 
+First, the primary actors in the system are principal-voters and agent-representatives. By contrast, the administrative state is not a meaningful part of the story. A handful of pieces within the Traditional EA approach *have* sought to incorporate the administrative state; but those accounts stress that "it is not a bureaucratic imperative that drives agency decisionmaking but rather a congressional-electoral one." [@Weingast1984, p. 149] Agencies that fail to adhere to congressional discipline are sanctioned; "political discipline and motivation for regulatory policy choice works through Congress." [@Weingast1984, p. 149]
+
+
 ### New tools
 
 Law is still very important, but there is a growth in new tools, like nudging  
 
 Technocracy - new types of tools
+
+Second, only the consequences of policy matter, not the intentions of representative-agents or the means they use to achieve their policies. The types of actions taken by the representative-agents are not themsleves consequential; rather, it is simply assumed that some actions are better for voters than are others. [@Ashworth2014, p. 567] The possible actions taken by the representative-agents are unlimited in theory. But the outcome of the analysis in no way depends on what actions are taken, only their consequences. As a result, the traditional account ignores (a) the intentions behind the act and (b) the mode of action.  
+
 
 ### Change   
 
@@ -110,9 +105,14 @@ In other words, the legislators must change, but they can’t change law, lest r
 
 This is at odds with fast changing world.
 
+Third, the traditional model of electoral accountability treats policy change as costless. That is, it is assumed that, if individual preferences shift, there should be a concomitant shift in policy.  
+
+
 ## Normative updates 
 
 Implications for bureaucratic institutions  
+
+
 
 # What we know about voters
 
