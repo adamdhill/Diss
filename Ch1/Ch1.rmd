@@ -59,7 +59,11 @@ These positions do not represent opposing approaches. In theory, a complete unde
 
 ## A simplified approach 
 
-In order to satisfy any approach to mechanism design, a theory must capture the following three concepts. First, it must explain who the primary actors are. Second, it must explain what actions are available to the actors. Third, it must explain the consequences of the actions.^[These requirements are as common sense as they sound. They are implicit in all that I have already argued. I elucidate these requirements here not in order to break new ground; rather, I do so in order to highlight aspects of the Traditional EA account that I will later criticize.] Let us briefly consider how Traditional EA handles each of these requirements.
+Where an account lies on the graph tends to be a product of how it treats three major factors. 
+ 
+In order to satisfy any approach to mechanism design, a theory must capture the following three concepts. First, it must explain who the primary actors are. Second, it must explain what actions are available to the actors. Third, it must explain the consequences of the actions.
+
+^[These requirements are as common sense as they sound. They are implicit in all that I have already argued. I elucidate these requirements here not in order to break new ground; rather, I do so in order to highlight aspects of the Traditional EA account that I will later criticize.] Let us briefly consider how Traditional EA handles each of these requirements.
 
 First, the primary actors in the system are principal-voters and agent-representatives. 
 
