@@ -77,41 +77,21 @@ Contemporary EA situates the study of electoral accountability in an environment
 
 ### Complexity
 
-Policymaking has become more complex. Delegation not congress - many hands
-
-Increasing number of actors
-
-First, the primary actors in the system are principal-voters and agent-representatives. By contrast, the administrative state is not a meaningful part of the story. A handful of pieces within the Traditional EA approach *have* sought to incorporate the administrative state; but those accounts stress that "it is not a bureaucratic imperative that drives agency decisionmaking but rather a congressional-electoral one." [@Weingast1984, p. 149] Agencies that fail to adhere to congressional discipline are sanctioned; "political discipline and motivation for regulatory policy choice works through Congress." [@Weingast1984, p. 149]
-
+First, the process of policymaking has become more complex. In the Traditional EA account, the primary actors in the system are principal-voters and agent-representatives. By contrast, the administrative state is not a meaningful part of the story. A handful of pieces within the Traditional EA approach *have* sought to incorporate the administrative state; but those accounts stress that "it is not a bureaucratic imperative that drives agency decisionmaking but rather a congressional-electoral one." [@Weingast1984, p. 149] Agencies that fail to adhere to congressional discipline are sanctioned; "political discipline and motivation for regulatory policy choice works through Congress." [@Weingast1984, p. 149]
 
 ### New tools
 
-Law is still very important, but there is a growth in new tools, like nudging  
-
-Technocracy - new types of tools
-
-Second, only the consequences of policy matter, not the intentions of representative-agents or the means they use to achieve their policies. The types of actions taken by the representative-agents are not themsleves consequential; rather, it is simply assumed that some actions are better for voters than are others. [@Ashworth2014, p. 567] The possible actions taken by the representative-agents are unlimited in theory. But the outcome of the analysis in no way depends on what actions are taken, only their consequences. As a result, the traditional account ignores (a) the intentions behind the act and (b) the mode of action.  
-
+Second, policymakers -- be they representatives or agencies -- have new tools at their disposals. The Traditional EA account abstracts away the choice of tool. Only the consequences of policy matter, not the intentions of representative-agents or the means they use to achieve their policies. The types of actions taken by the representative-agents are not themsleves consequential; rather, it is simply assumed that preferences are translated into policy. [@Ashworth2014, p. 567] As a result, the traditional account ignores (a) the intentions behind the act and (b) the mode of action.  
 
 ### Change   
 
-How do we deal with success? What happens when voters win?
+Just as Traditional EA abstracts away the choice of tool to translate preference to policy, so too does it simply assume that a change in policy seamlessly translates to a change in regulation. Another way to put this is that Traditional EA treats policy change as costless. That is, it is assumed that, if individual preferences shift, there should be a concomitant shift in policy and in real-world regulation.  
 
-Primary work product of legislators: laws
-
-Our best thinking about law: it’s the kind of thing that must be stable
-
-In other words, the legislators must change, but they can’t change law, lest reasonable expectations be upset.
-
-This is at odds with fast changing world.
-
-Third, the traditional model of electoral accountability treats policy change as costless. That is, it is assumed that, if individual preferences shift, there should be a concomitant shift in policy.  
-
+Our best thinking about law, however, complicates this picture. Law, almost every legal philosopher and social scientist in the 20th century argues, is the kind of thing that must be stable. This is primarily due to the importance of maintaining reasonable expectations. 
 
 ## Normative updates 
 
-Implications for bureaucratic institutions  
-
+PRESENTIAL ADMINISTRATION
 
 
 # What we know about voters
