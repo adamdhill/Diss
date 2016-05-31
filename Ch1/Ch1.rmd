@@ -89,15 +89,13 @@ Just as Traditional EA abstracts away the choice of tool to translate preference
 
 Our best thinking about law, however, complicates this picture. Law, almost every legal philosopher and social scientist in the 20th century argues, is the kind of thing that must be stable. This is primarily due to the importance of maintaining reasonable expectations. Meanwhile, social scientists have pointed out the difference between "law on the books" and "law in action." 
 
-## Normative updates 
+## The normative problem created by these changes
 
 Traditional EA abstracts away each of these issues. In theory, Traditional EA should be robust enough to handle each of these scenarios. These scenarios should raise mere "implementation details." However, once you remove the assumption that the administrative state is an agent of Congress, the logic of Traditional EA electoral accountability falls apart. Recall, the problem for citizens is to design a system such that incumbents are sufficiently incentivized to act in the public interest. This is a special version of the more general principal-agent problem. [@Manin1999, p. 41] Yet if those making a substantial fraction of policy are not, in fact, the citizens' agents, there is no mechanism of control. 
 
+## A new brand of electoral accountability
 
-
-
-PRESENTIAL ADMINISTRATION
-
+It is one thing to argue that the Traditional EA account is not, in fact, robust against the contemporary political world. This dissertation offers a new model of electoral accountability that accounts for these three key changes in the contemporary political landscape. 
 
 # What we know about voters
 
