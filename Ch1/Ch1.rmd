@@ -91,7 +91,9 @@ Our best thinking about law, however, complicates this picture. Law, almost ever
 
 ## Normative updates 
 
-Traditional EA abstracts away each of these issues. 
+Traditional EA abstracts away each of these issues. In theory, Traditional EA should be robust enough to handle each of these scenarios. These scenarios should raise mere "implementation details." However, once you remove the assumption that the administrative state is an agent of Congress, the logic of Traditional EA electoral accountability falls apart. Recall, the problem for citizens is to design a system such that incumbents are sufficiently incentivized to act in the public interest. This is a special version of the more general principal-agent problem. [@Manin1999, p. 41] Yet if those making a substantial fraction of policy are not, in fact, the citizens' agents, there is no mechanism of control. 
+
+
 
 
 PRESENTIAL ADMINISTRATION
