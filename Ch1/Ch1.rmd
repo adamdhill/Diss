@@ -109,11 +109,7 @@ Using the empirical insights developed in Chapters 2-4, Chapter 5 provides a new
 
 # What we know about voters
 
-VO Key famously declare voters the rational …
-
-Generations of scholars have tested that claim.
-
-"Michigan School": Voters are ignorant [@Malhotra2013]
+V.O. Key famously declared the voter to be the "rational god of vengeance and reward."[@Key1964, p. 568] Generations of scholars have tested that claim. Most famously, perhaps, the "Michigan School" argued that voters lack both information and competence. [@Malhotra2013] More recently,  
 
 Fiorina: voters can use simple performance metrics 
 
