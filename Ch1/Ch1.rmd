@@ -113,7 +113,9 @@ Using the empirical insights developed in Chapters 2-4, Chapter 5 provides a new
 
 V.O. Key famously declared the voter to be the "rational god of vengeance and reward."[@Key1964, p. 568] Generations of scholars have tested that claim. Most famously, perhaps, the "Michigan School" argued that voters lack both information and competence. [@Malhotra2013] We are, by now, painfully familiar with data showing that voters lack what appear to be certain forms of crucial information. As Arthur Lupia writes:
 
-When it comes to political information, there are two groups of people. 
+When it comes to political information, there are two groups of people. One group understands that they are almost completely ignorance of almost every detail of almost every law and policy under which they live. The other group is delusional about how much they know. There is no third group. [@Lupia2015, p. 3]
+
+
 
 Fiorina: voters can use simple performance metrics 
 
