@@ -4,6 +4,8 @@ A behavioral approach to contemporary electoral accountability
 
 # Introduction 
 
+Fundamentally Schumpeterian idea that competitive elections are vitally important to translating citizen preferences to public policy.
+
 Most theories of democracy find a central role for electoral accountability. Indeed, EA is one of the central institutional designs of the modern period. But how does EA work? How do hundreds of millions of discrete individuals exert control over an elected representative?  
 
 The traditional model of electoral accountability has three serious shortcomings, however. *First*, the traditional model treats elected representatives as the primary actors in government. In fact, the demise of the non-delegation doctrine, and the rise of intra-government delegation, has increased the number of actors involved in making policy. *Second*, the traditional model divides the world into "lawmaking," which is endogenous to politics, and "probabilistic background factors," which are exogenous to politics. In fact, this divide is not nearly so neat. The rise of new regulatory tools, like nudging, has deeply complicated the relationship between endogenous and exogenous factors. *Third*, the traditional model assumes that congresspeople can change course when voters demand it. But this assumption sits uncomfortably with decades of jurisprudence holding that legal change must be slow and gradual, lest it upset reasonable expectations. 
@@ -109,7 +111,9 @@ Using the empirical insights developed in Chapters 2-4, Chapter 5 provides a new
 
 # What we know about voters
 
-V.O. Key famously declared the voter to be the "rational god of vengeance and reward."[@Key1964, p. 568] Generations of scholars have tested that claim. Most famously, perhaps, the "Michigan School" argued that voters lack both information and competence. [@Malhotra2013] More recently,  
+V.O. Key famously declared the voter to be the "rational god of vengeance and reward."[@Key1964, p. 568] Generations of scholars have tested that claim. Most famously, perhaps, the "Michigan School" argued that voters lack both information and competence. [@Malhotra2013] We are, by now, painfully familiar with data showing that voters lack what appear to be certain forms of crucial information. As Arthur Lupia writes:
+
+When it comes to political information, there are two groups of people. 
 
 Fiorina: voters can use simple performance metrics 
 
