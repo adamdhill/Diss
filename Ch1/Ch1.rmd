@@ -139,6 +139,8 @@ If voters' performance in elections with traditional institutions is good enough
 
 We do *not* know how voters perform under conditions of COMPLEXITY and TOOLS. 
 
+To know this, we need a behavioral approach. 
+
 # A behavioral approach
 
 The dissertation offers a *behavioral* approach to contemporary electoral accountability. This approach has two primary components.
