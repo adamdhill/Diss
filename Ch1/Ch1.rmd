@@ -111,21 +111,19 @@ Using the empirical insights developed in Chapters 2-4, Chapter 5 provides a new
 
 # What we know about voters
 
-The approach taken here, like the Traditional account, assumes the worst about elected officials. This assumption is important because the mechanism does not depend on the quality of officials.^[Compare Caselli and Morelli, considering the possibility that voters elect low-quality candidates. [@Caselli2004]] But what about the competence of voters? V.O. Key famously declared the voter to be the "rational god of vengeance and reward."[@Key1964, p. 568] Generations of scholars have tested that claim. Most famously, perhaps, the "Michigan School" argued that voters lack both information and competence. [@Malhotra2013] We are, by now, painfully familiar with data showing that voters lack what appear to be certain forms of crucial information. As Arthur Lupia writes:
+The approach taken here, like the Traditional account, assumes the worst about elected officials. This assumption is important because the mechanism does not depend on the quality of officials.^[Compare Caselli and Morelli, considering the possibility that voters elect low-quality candidates. [@Caselli2004]] But what about the competence of voters? V.O. Key famously declared the voter to be the "rational god of vengeance and reward."[@Key1964, p. 568] Generations of scholars have tested that claim. Most famously, perhaps, the "Michigan School" argued that voters lack both information and competence. [@Malhotra2013] We are, by now, painfully familiar with data showing that voters lack what appear to be certain forms of crucial information. "Two of the most robust findings about American voters," Bendor et al. summarize, "are that few of them have coherent, detailed ideologies and few know much about politics." [@Bendor2011, p. 109]  As Arthur Lupia writes:
 
 When it comes to political information, there are two groups of people. One group understands that they are almost completely ignorance of almost every detail of almost every law and policy under which they live. The other group is delusional about how much they know. There is no third group. [@Lupia2015, p. 3]
 
 Some have sought to make a virtue of this ignorance. Fiorina argues that voters only need the most modest information about the economy to make electoral accountability work. [@Fiorina1982] Arthur Lupia argues that voters are rationally uninformed. It makes more sense, Lupia argues, for voters to simply take cues from party elites. [@Lupia1994]
 
-Others take a more pessimistic view of the situation. Some argue many citizens - those ignorant of certain facts - have a moral obligation not to vote. Others go further. Democracy, Jason Brennan argues, is "the rule of the ignorant and the irrational, and it too often falls short." [@Brennan2016] Instead, we should be subject to the "rule of the knowledgeable." *Id.*
+Others take a more pessimistic view of the situation. Some argue many citizens - those ignorant of certain facts - have a moral obligation not to vote. Others, citing "the depth of ignorance demonstrated by modern mass publics," go further. [@Bendor2011, p. 109] Democracy, Jason Brennan argues, is "the rule of the ignorant and the irrational, and it too often falls short." [@Brennan2016] Instead, we should be subject to the "rule of the knowledgeable." *Id.*
 
 This dissertation is designed to avoid these intractable questions. 
 
 ## A normative benchmark
 
-Not only are these questions intractable, but - for many purposes - they are beside the point. Whatever one might conclude about voters' beliefs, intelligence or capacity for reasoned deliberation, it is clear that voters establish a normative benchmark. 
-
-Elections are at center of unrivaled normative hegemon. Kolodny2014 on democratic decision making
+Whatever one might conclude about voters' beliefs, intelligence or capacity for reasoned deliberation, it is clear that voters establish a normative benchmark. Elections are at center of unrivaled normative hegemon: the idea of democracy. While Democratic decision making
 
 Whatever negative conclusions you might draw about voters ability to shape elections, it is clear that is has been *good enough* to be the lynchpin moment in an unrivaled institutional practice.
 
