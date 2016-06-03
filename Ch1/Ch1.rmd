@@ -123,9 +123,11 @@ These debates have persisted for a long time, and quite frankly it's hard to see
 
 ## A normative benchmark
 
-This dissertation is designed to avoid intractable questions about voter competence. Whatever one might conclude about voters' beliefs, intelligence or capacity for reasoned deliberation, it is clear that voters establish a normative benchmark. Elections are at center of unrivaled normative hegemon: the idea of democracy. While conceptions of democracy are many and contested, a system of free, fair, and open elections is at the heart of all of them. [@Beitz1989] Whatever negative conclusions you might draw about voters ability to shape elections, it is clear that is has been *good enough* to be the lynchpin moment in an unrivaled institutional practice. Whatever theory best explains why elections are good - whether they respect citizens qua equals or tend to produce the best outcomes - it is clear that voters perform *well enough* to ground the legitimacy of the practice.^[Under any reasonable standard of justification. [@Waldron1993]]
+This dissertation is designed to avoid intractable questions about voter competence. Whatever one might conclude about voters' beliefs, intelligence or capacity for reasoned deliberation, it is clear that voters' actions establish a normative benchmark. Elections are at center of unrivaled normative hegemon: the idea of democracy. While conceptions of democracy are many and contested, a system of free, fair, and open elections is at the heart of all of them. [@Beitz1989] Whatever negative conclusions you might draw about voters ability to shape elections, it is clear that is has been *good enough* to be the lynchpin moment in an unrivaled institutional practice. Whatever theory best explains why elections are good - whether they respect citizens qua equals or tend to produce the best outcomes - it is clear that voters perform *well enough* to ground the legitimacy of the practice.^[Under any reasonable standard of justification. [@Waldron1993]]
 
-If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
+
+
+Voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then going forward we should test capacity against that.
 
 "Institutional design" is a popular field of public law. Designers identify problems associated with particular institutional arrangements and propose solutions. Sometimes those solutions are adopted. When they are, we cannot assume that individuals will perform as well at holding officials accountable as they did in the traditional arrangements.
 
