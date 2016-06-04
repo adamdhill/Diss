@@ -127,7 +127,7 @@ This dissertation is designed to avoid intractable questions about voter compete
 
 The aspects of this dissertation that relate to democratic decisionmaking do not seek to improve on current practices. Rather, this dissertation seeks to compare the efficacy of new practices with traditional practices. If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then we should gauge the efficacy of new institutional arrangements against those performance under those institutional arrangements.
 
-In large measure, mechanism designers have simply assumed that voters will perform as well under new institutional arrangements as they did under the previous arrangements. For example, ***
+For the most part, mechanism designers have simply assumed that voters will perform as well under new institutional arrangements as they did under the previous arrangements. For example, advocates of the "Derivative Accountability" model of administrative accountability, discussed above, simply assume that voters' retrospective evaluations of *agency* action will be as competent as voters' retrospective evalutations of *legislative* action.  
 
 Recall, the traditional conception of electoral accountability was focused on designing systems that allow voters to use retrospective evaluations of representatives' policymaking.  
 
