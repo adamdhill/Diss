@@ -127,14 +127,11 @@ This dissertation is designed to avoid intractable questions about voter compete
 
 The aspects of this dissertation that relate to democratic decisionmaking do not seek to improve on current practices. Rather, this dissertation seeks to compare the efficacy of new practices with traditional practices. If voters' performance in elections with traditional institutions is good enough to establish a normative benchmark, then we should gauge the efficacy of new institutional arrangements against those performance under those institutional arrangements.
 
-For the most part, mechanism designers have simply assumed that voters will perform as well under new institutional arrangements as they did under the previous arrangements. For example, advocates of the "Derivative Accountability" model of administrative accountability, discussed above, simply assume that voters' retrospective evaluations of *agency* action will be as competent as voters' retrospective evalutations of *legislative* action.  
+For the most part, mechanism designers have simply assumed that voters will perform as well under new institutional arrangements as they did under the previous arrangements. For example, advocates of the "Derivative Accountability" model of administrative accountability, discussed above, simply assume that voters' retrospective evaluations of *agency* action will be as competent as voters' retrospective evalutations of *legislative* action. As Chapters Two and Three reveal, these assumptions are unjustified.  
 
-Recall, the traditional conception of electoral accountability was focused on designing systems that allow voters to use retrospective evaluations of representatives' policymaking.  
+Mechanism design typically operates by identifying one problem, and identifying a fix for it. But, often, the solution can generate a *new* problem. By and large, mechanism designers have not tended to investigate these new problems that arise from their fixes. This dissertation does investigate these problems, and, what's more, it offers solutions to fix them. Of course, these solutions might *themselves* cause fresh problems. In this sense, the ideas presented here represent a part of an ongoing conversation about how to best accomplish democratic accountability, not a perfect solution.   
 
-
-"Institutional design" is a popular field of public law. Designers identify problems associated with particular institutional arrangements and propose solutions. Sometimes those solutions are adopted. When they are, we cannot assume that individuals will perform as well at holding officials accountable as they did in the traditional arrangements.
-
-We do *not* know how voters perform under conditions of COMPLEXITY and TOOLS. 
+Predicting how individuals will react under new institutional conditions requires a research design that is sensitive to *** We do *not* know how voters perform under conditions of COMPLEXITY and TOOLS. 
 
 To know this, we need a behavioral approach. 
 
