@@ -135,17 +135,9 @@ Predicting how individuals will react under new institutional conditions require
 
 # A behavioral approach
 
-The dissertation offers a *behavioral* approach to contemporary electoral accountability. Most of the prior work contributing to the Traditional EA approach proceeds on the rational choice approach. 
+Most of the prior work contributing to the Traditional EA approach proceeds on the rational choice approach. By contrast, this dissertation offers a *behavioral* approach to contemporary electoral accountability. A behavioral approach draws on the methodology and substantive insights developed by experimental economics and social psychology. Although frequently touted as a competitor to rational choice approaches, [@Ostrom2000] behavioral approaches are better described as working in tandem with rational choice approaches. At their core, behavioral approaches *test* rational choice models by subject its assumptions to randomized control trials or quasi-experiments. Some behavioral approaches do more: they compare the concepts used by RC approaches with what are often thicker, richer concepts derived from philosophy or other humanities. If these concepts perform better than the RC concepts, they can be incorporated in the RC models. 
 
-This approach has two primary components.
-
-Antecedents of the account in [@Anderson2007]
-
-## Experimental
-
-Experiments over theory -- PULL FROM BENDOR2011
-
-Using insights from economics, psychology and philosophy about the dynamics of group behavior and blame.  
+This dissertation uses insights from economics, psychology and philosophy *** about the dynamics of group behavior and blame.  
 
 ### Self-interest through delegation 
 
