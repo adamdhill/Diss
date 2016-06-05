@@ -139,24 +139,19 @@ Most of the prior work contributing to the Traditional EA approach proceeds on t
 
 This pattern - integrating behavioral insights into RC models - is widespread across the social sciences. Yet it is peculiarly absent in the electoral accountability literature. To be sure, some RC scholars have sought to incorporate behavioral insights. Most notably, Bendor et al. authored *A Behavioral Theory of Elections* in 2011. Arguing that "a change is overdue," the book length work sought to incorporate insights around issues of bounded rationality to the study of electoral accountability. The key contribution of Bendor et al. was to show, as a formal matter, why voting is not irrational. In working on the "paradox of turnout," Bendor et al. addressed a key issue that long beguiled the RC literature. Notably, however, Bendor et al. confined their contributions to formal modeling. Thus, the pattern that has spread across the social sciences - where RC-based theories bring on board insights developed by behaviorists - has failed to fully materialize in the study of electoral accountability.
 
-Chapters 2 and 3 represent three efforts at testing RC-based theories of electoral accountability through randomized control trials. These studies take aim at concepts that are crucial to our understanding of a central feature driving retrospective evaluation of policy: blame. In study after study, blame has been shown to drive more political action than praise. Chapters 2 and 3 test how our evolving political system impacts blameworthiness judgments. In Chapter 2, I analyze how delegating policymaking authority changes blameworthiness judgments. And in Chapter 3, I analyze how soft paternalism, or nudging, changes assessments of blame.  
- 
-Chapter 4 operates a more theoretical level, but nonetheless retains its behavioral approach. Traditional EA depends on a rigid legal formalism. It assumes that, when laws change, behavior automatically changes. Chapter 4 rejects this formalist thinking. Instead, it offers an approach to law - and, in particular, legal change - that takes a more realistic, cognitive approach. This is a crucial development for studies of electoral accountability, since legal change *the* payoff of political accountability. Understanding when it works - and when it doesn't - is paramount. 
-
-# Results
-
-The results of this approach to electoral accountability are ***. 
-
-## The bad news
-
 In broadest terms, new accountability architectures appear to impede electoral accountability. 
 
 Complexity and indirectness reduce the quality of individual judgments about blameworthiness.
 
-## The good news
 
 Debiasing and policy recommendations 
 
 When change *does* occur due to electoral incentives, change is more possible than previously imagined. 
 
-# Roadmap 
+# Roadmap
+
+Chapters 2 and 3 represent three efforts at testing RC-based theories of electoral accountability through randomized control trials. These studies take aim at concepts that are crucial to our understanding of a central feature driving retrospective evaluation of policy: blame. In study after study, blame has been shown to drive more political action than praise. Chapters 2 and 3 test how our evolving political system impacts blameworthiness judgments. In Chapter 2, I analyze how delegating policymaking authority changes blameworthiness judgments. And in Chapter 3, I analyze how soft paternalism, or nudging, changes assessments of blame.  
+ 
+Chapter 4 operates a more theoretical level, but nonetheless retains its behavioral approach. Traditional EA depends on a rigid legal formalism. It assumes that, when laws change, behavior automatically changes. Chapter 4 rejects this formalist thinking. Instead, it offers an approach to law - and, in particular, legal change - that takes a more realistic, cognitive approach. This is a crucial development for studies of electoral accountability, since legal change *the* payoff of political accountability. Understanding when it works - and when it doesn't - is paramount. 
+
+Chapter 5 offers a tentative model of electoral accountability that is consistent with the findings of the previous chapter. The primary result of Chapters 2 and 3 is that delegation and new legal tools, such as soft paternalism, inhibit individuals' ability to hold officials accountable for failed policies. The model presented in Chapter 5 accounts for these problems, and makes institutional recommendations to remedy them. If successful, the model of electoral accountability presented in Chapter 5 will ***
