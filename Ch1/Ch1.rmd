@@ -135,34 +135,15 @@ Predicting how individuals will react under new institutional conditions require
 
 # A behavioral approach
 
-Most of the prior work contributing to the Traditional EA approach proceeds on the rational choice approach. By contrast, this dissertation offers a *behavioral* approach to contemporary electoral accountability. A behavioral approach draws on the methodology and substantive insights developed by experimental economics and social psychology. Although frequently touted as a competitor to rational choice approaches, [@Ostrom2000] behavioral approaches are better described as working in tandem with rational choice approaches. At their core, behavioral approaches *test* rational choice models by subject its assumptions to randomized control trials or quasi-experiments. Some behavioral approaches do more: they compare the concepts used by RC approaches with what are often thicker, richer concepts derived from philosophy or other humanities. If these concepts perform better than the RC concepts, then, ideally, they will be incorporated in suitably modified models.
+Most of the prior work contributing to the Traditional EA approach proceeds on the rational choice approach. By contrast, this dissertation offers a *behavioral* approach to contemporary electoral accountability. A behavioral approach draws on the methodology and substantive insights developed by experimental economics and social psychology. Although frequently touted as a competitor to rational choice approaches, [@Ostrom2000] behavioral approaches are better described as working in tandem with rational choice approaches. At their core, behavioral approaches *test* rational choice models by subject its assumptions to randomized control trials or quasi-experiments. Some behavioral approaches do more: they compare the concepts used by RC approaches with what are often thicker, richer concepts derived from philosophy or other humanities. If these concepts perform better than the RC concepts, then, ideally, they will be incorporated in suitably modified models.^[Behavioral studies tend to proceed data point by data point, from the bottom-up. Unlike RC theory, which is a top-down exercise, many behavioral studies are required in order to begin to build new theory. See, e.g., Dan Ariely's Predictably Irrational: The Hidden Forces that Shape Our Decisions.]
 
-This pattern - integrating behavioral insights into RC models - is widespread across the social sciences. Yet it is peculiarly absent in the electoral accountability literature. To be sure, some scholars have sought to incorporate behavioral insights. Most notably, Bendor et al. authored *A Behavioral Theory of Elections* in 2011. Arguing that "a change is overdue," the book length work sought to incorporate insights around issues of bounded rationality to the study of electoral accountability. The key contribution of Bendor et al. was to show, as a formal matter, why voting is not irrational. In working on the "paradox of turnout," Bendor et al. addressed a key issue that long beguiled the RC literature. Notably, however, Bendor et al. confined their contributions to formal modeling. Thus, the pattern that has spread across the social sciences has failed to fully materialize in the study of electoral accountability.
+This pattern - integrating behavioral insights into RC models - is widespread across the social sciences. Yet it is peculiarly absent in the electoral accountability literature. To be sure, some RC scholars have sought to incorporate behavioral insights. Most notably, Bendor et al. authored *A Behavioral Theory of Elections* in 2011. Arguing that "a change is overdue," the book length work sought to incorporate insights around issues of bounded rationality to the study of electoral accountability. The key contribution of Bendor et al. was to show, as a formal matter, why voting is not irrational. In working on the "paradox of turnout," Bendor et al. addressed a key issue that long beguiled the RC literature. Notably, however, Bendor et al. confined their contributions to formal modeling. Thus, the pattern that has spread across the social sciences - where RC-based theories bring on board insights developed by behaviorists - has failed to fully materialize in the study of electoral accountability.
 
-Behavioral studies tend to proceed data point by data point, from the bottom-up. Unlike RC theory, which is a top-down exercise, many behavioral studies are required in order to 
-
+Chapters 2 and 3 represent three efforts at testing RC-based theories of electoral accountability through randomized control trials. These studies take aim at concepts that are crucial to our understanding of a central feature driving retrospective evaluation of policy: blame. In study after study, blame has been shown to drive more political action than praise. Chapters 2 and 3 test how our evolving political system impacts blameworthiness judgments. In Chapter 2, I analyze how delegating policymaking authority changes blameworthiness judgments. And in Chapter 3, I analyze how soft paternalism, or nudging, changes assessments of blame.  
  
-This dissertation uses insights from economics, psychology and philosophy *** about the dynamics of group behavior and blame.  
-
-### Self-interest through delegation 
-
-Hamman
-
-Delegate to powerless intermediary
-
-Kutz
-
-### Blameworthiness
-
-Extensive literature 
-
-Two ways to conceptualize blame. 
-
-First, blameworthiness as necessary condition for electoral accountability
-
-Second, blameworthiness as proxy for voting patterns - holding all else equal 
-
-## Cognitive approach to legal reasoning 
+Chapter 4 operates a more theoretical level, but nonetheless  
+ 
+Cognitive approach to legal reasoning 
 
 Traditionally studies of EA depend on a rigid legal formalism. 
 
