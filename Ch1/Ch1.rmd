@@ -139,7 +139,7 @@ Most of the prior work contributing to the Traditional EA approach proceeds on t
 
 This pattern - integrating behavioral insights into RC models - is widespread across the social sciences. Yet it is peculiarly absent in the electoral accountability literature. To be sure, some RC scholars have sought to incorporate behavioral insights. Most notably, Bendor et al. authored *A Behavioral Theory of Elections* in 2011. Arguing that "a change is overdue," the book length work sought to incorporate insights around issues of bounded rationality to the study of electoral accountability. The key contribution of Bendor et al. was to show, as a formal matter, why voting is not irrational. In working on the "paradox of turnout," Bendor et al. addressed a key issue that long beguiled the RC literature. Notably, however, Bendor et al. confined their contributions to formal modeling. Thus, the pattern that has spread across the social sciences - where RC-based theories bring on board insights developed by behaviorists - has failed to fully materialize in the study of electoral accountability.
 
-In broadest terms, new accountability architectures appear to impede electoral accountability. 
+The primary finding that results from applying the behavioral methodology to the study of electoral accountability is that new institutions - in particular, the growth of the administrative state - appear to impede electoral accountability. To be clear: delegation *as such* impedes accountability. Hypothetically, if citizens could cast votes for bureaucrats, delegation would still tend to insulate principals and leave agents "holding the bag." 
 
 Complexity and indirectness reduce the quality of individual judgments about blameworthiness.
 
