@@ -135,7 +135,9 @@ Predicting how individuals will react under new institutional conditions require
 
 # A behavioral approach
 
-The dissertation offers a *behavioral* approach to contemporary electoral accountability. This approach has two primary components.
+The dissertation offers a *behavioral* approach to contemporary electoral accountability. Most of the prior work contributing to the Traditional EA approach proceeds on the rational choice approach. 
+
+This approach has two primary components.
 
 Antecedents of the account in [@Anderson2007]
 
