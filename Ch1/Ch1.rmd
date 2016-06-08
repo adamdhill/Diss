@@ -4,7 +4,19 @@ A behavioral approach to contemporary electoral accountability
 
 # Introduction 
 
-Most, if not all, theories of democracy find a central role for electoral accountability. Elected officials must "face the voters." We have a special, derisive word for officials who, through no fault of their own, won't face voters: lame ducks. With no chance of creating "new sources of political energy," as the New York Times put it, lame ducks ***
+Most, if not all, theories of democracy find a central role for electoral accountability. Elected officials must "face the voters." Where term limits protect politicians from the voters, we derisively refer to outgoing officials as "lame ducks." Once limited to the period after a successor was elected, an increasingly larger share of the final term in office seems to be considered part of the lame duck period. Our understanding of what constitutes the lame duck period may be expanding. In the past, only once the next officeholder was elected did we consider the outgoing official a lame duck. In mid June 2015, a full 18 months before the next President will be elected, The New York Times wrote at length about the fact that President Obama "never has to face voters again." As a result, "finding new sources of political energy" is difficult. 
+
+
+
+The possibility of standing for election in the future, it seems, is itself a source of power.
+
+
+
+The possibility of standing for election in the future, it seems, exerts 
+
+
+
+We have a special, derisive word for officials who, through no fault of their own, won't face voters: lame ducks. With no chance of creating "new sources of political energy," as the New York Times put it, lame ducks ***
 
 Indeed, EA is one of the central institutional designs of the modern period. But how does EA work? How do hundreds of millions of discrete individuals exert control over an elected representative?  
 
