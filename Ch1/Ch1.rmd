@@ -8,7 +8,7 @@ Most, if not all, theories of democracy find a central role for electoral accoun
 
 To face the voters -- what is at the core of this idea, which exerts such a large force on contemporary politics? The idea is opaque and contested, yet has an indisputable reality and power. Electoral accountability is one of the foremost political institutions of the modern period. But how does electoral accountability work? How do hundreds of millions of discrete individuals -- the public -- exert control over an elected representative? Under what conditions will this control be exerted? What can electoral accountability be expected to accomplish, policy-wise?    
 
-This dissertation ***
+This dissertation addresses these questions. 
 
 The traditional model of electoral accountability has three serious shortcomings, however. *First*, the traditional model treats elected representatives as the primary actors in government. In fact, the demise of the non-delegation doctrine, and the rise of intra-government delegation, has increased the number of actors involved in making policy. *Second*, the traditional model divides the world into "lawmaking," which is endogenous to politics, and "probabilistic background factors," which are exogenous to politics. In fact, this divide is not nearly so neat. The rise of new regulatory tools, like nudging, has deeply complicated the relationship between endogenous and exogenous factors. *Third*, the traditional model assumes that congresspeople can change course when voters demand it. But this assumption sits uncomfortably with decades of jurisprudence holding that legal change must be slow and gradual, lest it upset reasonable expectations. 
 
