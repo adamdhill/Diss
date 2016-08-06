@@ -3,13 +3,15 @@ A behavioral approach to contemporary electoral accountability
 
 # A Puzzle
 
-Try to think of the last auction you attended, or even participated in. It could be for fine art, farm equipment, or government-seized private property. The type of auction doesn't matter much. Now, try to imagine how auction attendees would react if, at the conclusion of the auction, someone said something to the effect of, "OK, the auction's over; now it's time to put the goods in the hands of those who value them the most!" At best, the reaction would be one of confusion. 
+Imagine the last auction you attended, participated in, or saw in a movie. Fine art, farm equipment, or government-seized private property: the items on the block don't matter much. The auction concludes. And then the auctioneer yells, "OK, the auction's over; now it's time to put the goods in the hands of those who value them the most!" How would attendees react? At best, the reaction would be one of confusion.
 
-Next, imagine that you are watching the final game of the NBA playoffs. After one team emerges victorious, someone remarks, "OK, now it's time to figure out who the best team is!" Again, it would be hard to know how to respond. 
+Next, imagine that you are watching the final game of the NBA playoffs. The buzzer sounds, and one team emerges victorious. And then the announcers say, "OK, now it's time to figure out who the best team in the league is!" Again, it would be hard to know how to respond. 
 
-In both of these cases, the most natural response is probably to gently explain how auctions, or playoffs, work. The content of the remarks suggests that the speakers don't understand what just happened. 
+In both of these cases, the most natural response is probably to gently explain how auctions, or playoffs, work. The remarks suggest that the speakers simply *don't understand* what just happened. The auction is a process designed to fetch the highest price for goods; playoffs are designed to pick out the best team. 
 
-Now, maybe you *have* experienced one of these scenarios. If so, you've experienced something interesting. What does it mean if we question whether the team that emerged victorious is *really* the  best team? It means (at least) two things. First, it means that we have an external standard by which we are judging the competition. The game is not, in Rawls' terminology, an instance of pure procedural justice. 
+It's possible, however, that the speakers understand what happened *very well*. What does it mean if we question whether the team that emerged victorious is *really* the best team? Or whether the good *really* fetched the highest price? 
+
+It means (at least) two things. First, it means that we have an external standard by which we are judging the competition. The game is not, in Rawls' terminology, an instance of pure procedural justice. 
 
 If we *do* find ourselves questioning whether the best team won after a game is over, it just means that the mechanism needs revising, as in the case of the shot clock introduction.  
 
