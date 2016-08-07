@@ -9,7 +9,8 @@ Next, imagine that you are watching the final game of the NBA playoffs. The buzz
 
 In both of these cases, the most natural response is probably to gently explain how auctions, or playoffs, work. The remarks suggest that the speakers simply *don't understand* what just happened. The auction is a process designed to fetch the highest price for goods; playoffs are designed to pick out the best team. 
 
-It's possible, however, that the speakers understand what happened *very well*. What does it mean if we question whether the team that emerged victorious is *really* the best team? Or whether the good *really* fetched the highest price? 
+It's possible, however, that the speakers *very well* understand what just happened. A playoff might be *designed* to find the best team, but in fact fail to accomplish its goal. 
+
 
 It means (at least) two things. First, it means that we have an external standard by which we are judging the competition. The game is not, in Rawls' terminology, an instance of pure procedural justice. 
 
