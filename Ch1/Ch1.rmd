@@ -13,16 +13,13 @@ It's possible, however, that the speakers *very well* understand what just happe
 
 So, the speaker could be either terribly or very well informed about the process. How do we decide? Most of us would probably consider two aspects of auctions, or tournaments, or whatever process was under consideration. First, we would ask if there is some *external* standard by which we can judge the outcomes of the process. In the case of the NCAA tournament, there is: does the process produces the best team? Further, we have factors that help us evaluate the quality of teams *other than* the outcome of the tournament. These criteria might include things like the quality of individual players, statistics, and probably the oldest external criteria in sports, the "eye test." 
 
-If we may stretch John Rawls' terminology, the basketball tournament is an example of imperfect procedural justice. There is an independently good, just, or valuable outcome; and the procedure only imperfectly produces that outcome. Those who question the process are seeking to make it less imperfect. 
+To stretch John Rawls' terminology, the basketball tournament is an example of imperfect procedural justice. There is an independently good, just, or valuable outcome; and the procedure only imperfectly produces that outcome. Those who question the process are seeking to make it less imperfect. 
 
-Calls to make processes less imperfect often arise when assumptions underlying the process change. For example, in-person auctions came to look hopelessly imperfect in the internet age. The goal of auctions was to put goods in the hands of those who value them the most, and unnecessarily limiting the pool of potential buyers by geography increasingly appeared to be an uneccessary source of error. Now, most auctions of any significance occur with at least an online component. 
+Calls to make processes less imperfect often arise when assumptions underlying the process change. For example, in-person auctions came to look hopelessly imperfect in the internet age. The goal of auctions is to put goods in the hands of those who value them the most, and unnecessarily limiting the pool of potential buyers by geography appeared to be an unnecessary source of error. Now, most auctions of any significance occur with at least an online component. 
 
 When such underlying fundamentals shift, calls to rethink the process commence. 
 
 Why do calls for democratic accountability proliferate? We have a democratic system, after all. Within the realities of this system, some calls for democratic accountability make sense. Claims that our current process is, in some sense, *broken* make sense. But in addition to these calls, there is a growing chorus of arguments suggesting that we need democratic accountability that is different in kind. Moreover, we see democratic accountability acting as an appraisive value, and a legal tool. Why do we see these calls? 
-
-
-If we *do* find ourselves questioning whether the best team won after a game is over, it just means that the mechanism needs revising, as in the case of the shot clock introduction.  
 
 
 # Introduction
