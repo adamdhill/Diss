@@ -3,7 +3,7 @@ A behavioral approach to contemporary electoral accountability
 
 # A Puzzle
 
-Imagine that you're at an auction. Fine art, farm equipment, or government-seized property: the items on the block don't matter much. After much yelling and hand waiving, the auction concludes. And then the auctioneer yells, "OK, the auction's over; now it's time to put the goods in the hands of those who value them the most!" How would attendees react? At best, they would be confused.
+Imagine that you are at an auction. Fine art, farm equipment, or government-seized property: the items on the block don't matter much. After much yelling and hand waiving, the auction concludes. And then the auctioneer yells, "OK, the auction's over; now it's time to put the goods in the hands of those who value them the most!" How would attendees react? At best, they would be confused.
 
 Next, imagine that you are watching the final game of the NCAA basketball tournament. The buzzer sounds, and one team emerges victorious. And then the announcers yell, "OK, now it's time to figure out who the best team is!" Again, it would be hard to know how to respond. 
 
@@ -15,9 +15,9 @@ So, the speaker could be either terribly or very well informed about the process
 
 To stretch John Rawls' terminology, the basketball tournament is an example of imperfect procedural justice. There is an independently good, just, or valuable outcome; and the procedure only imperfectly produces that outcome. Those who question the process are seeking to make it less imperfect. 
 
-Calls to make processes less imperfect often arise when assumptions underlying the process change. For example, in-person auctions came to look hopelessly imperfect in the internet age. The goal of auctions is to put goods in the hands of those who value them the most, and unnecessarily limiting the pool of potential buyers by geography appeared to be an unnecessary source of error. Now, most auctions of any significance occur with at least an online component. 
+Calls to make processes less imperfect often arise when assumptions underlying the procedure in question change. For example, in-person auctions came to look hopelessly imperfect in the internet age. The goal of auctions is to put goods in the hands of those who value them the most, and unnecessarily limiting the pool of potential buyers by geography appeared to be an unnecessary source of error. Today, most auctions of any significance occur with at least an online component. 
 
-When such underlying fundamentals shift, calls to rethink the process commence. 
+When such underlying fundamentals shift, calls to rethink the procedure commence. 
 
 Why do calls for democratic accountability proliferate? We have a democratic system, after all. Within the realities of this system, some calls for democratic accountability make sense. Claims that our current process is, in some sense, *broken* make sense. But in addition to these calls, there is a growing chorus of arguments suggesting that we need democratic accountability that is different in kind. Moreover, we see democratic accountability acting as an appraisive value, and a legal tool. Why do we see these calls? 
 
