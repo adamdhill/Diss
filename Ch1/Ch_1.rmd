@@ -1,11 +1,13 @@
 **Chapter 1**
 A behavioral approach to contemporary electoral accountability
 
-# What happens to broken processes?
+# A Puzzle
 
 Imagine that you are at an auction. Fine art, farm equipment, or government-seized property: the items on the block don't matter much. After much yelling and hand waiving, the auction concludes. And then the auctioneer yells, "OK, the auction's over; now it's time to put the goods in the hands of those who value them the most!" How would attendees react? At best, they would be confused.
 
 Next, imagine that you are watching the final game of the NCAA basketball tournament. The buzzer sounds, and one team emerges victorious. And then the announcers yell, "OK, now it's time to figure out who the best team is!" Again, it would be hard to know how to respond. 
+
+#A Way of Solving the Puzzle
 
 In both of these cases, the most natural response is to want to explain to the speaker how auctions, or basketball tournaments, work. The remarks suggest that the speakers simply *don't understand* what just happened. The auction is a process designed to fetch the highest price for goods; playoffs are designed to pick out the best team. To suggest that those goals need effectuating through some *further* process is to misunderstand what just happened. 
 
