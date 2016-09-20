@@ -11,6 +11,8 @@ Next, imagine that you are watching the final game of the NCAA basketball tourna
 
 Today, a logic very much like that found in the above two examples confuses our democratic process. Yet unlike the cases of the auctioneer or basketball tournament we do not recognize the logic as odd. In fact, just the opposite is true. Across the political spectrum, we treat this logic as a legitimate feature of the democratic process. This flawed logic confuses our understanding one of, if not the, central features of democracy: electoral accountability. 
 
+## Just what is electoral accountability?
+
 All theories of democracy find a central role for electoral accountability. Elected officials must "face the voters." In so doing, the public judges politicians' performance; a verdict is rendered. But just what role does electoral accountability play in democratic societies? Is electoral accountability a regular and predictable institutional process, which legitimately authorizes victorious candidates to wield the powers of office? Or is electoral accountability something less regular and predictable: not a process at all, but rather a value, which is achieved when officials act in ways that are (deemed by some commentator to be) "in step" with the people.   
 
 Today, mainstream political discourse often treats electoral accountability as a fleeting value or momentary political asset, as opposed to the outcome of a regularized and predictable institutional process. We have come to treat electoral accountability in this way (as a fleeting value or momentary political asset) because the regularized and predictable institutional process that underpins electoral accountability is broken. Treating electoral accountability as a value is one way to try to compensate for the broken process. We should not let this *compensatory* conception of electoral accountability blind us to our duty to fix the broken process, however. 
@@ -19,7 +21,7 @@ This Introduction begins by exploring these two conceptions of electoral account
 
 The mainstream treatment of electoral accountability as a value, as opposed to a process, is a symptom of a larger set of issues surrounding our electoral and lawmaking processes. We treat electoral accountability as a value because our electoral and lawmkaing processes are broken. I present this symptom at the start of the dissertation in order to reveal one of the major consequences of these broken processes. The core of the dissertation is about identifying the flaws in current process and offering avenues to remedy those flaws. The pride of place given to this discussion of *consequenes* serves as a reminder of the importance of these underlying - and sometimes technical - issues. 
 
-## Is electoral accountability a value? 
+## Elected but unaccountable?
 
 In June 2015, a full 18 months before the 2016 Presidential election, The New York *Times* wrote at length about the political problems facing President Obama. The bulk of these owed to the fact that he "never has to face voters again." Due to term limits, President Obama could not seek another term in office. This limitation resulted in an inability to "find[] new sources of political energy" in the absence of an upcoming election. Despite his democratic bona fides - President Obama won two elections - term limits created political headwinds. Without an ability to "face the voters" again, the democratic mandate that President Obama once possessed was percieved as diminished. 
 
