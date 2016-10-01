@@ -53,7 +53,9 @@ We are currently at such a moment with one of the most important procedures in o
 
 The core of this dissertation is about identifying some of the problems that are causing (process-based) electoral accountability to fail to achieve its goals. If remedies are located for these problems, we can return to a process based account, which has considerable merit. But before we can delve into the problems we are currently facing, we should first get a handle on how the process of electoral accountability is *supposed* to work. 
 
-# Mechanism Design
+# Electoral accountability as mechanism design
+
+In contrast to the substance-based account of electoral accountability, the process-based account sees electoral accountability as a *mechanism* aimed at reliably producing certain results. 
 
 The most general way to describe a mechanism is as a way of reliably producing outcomes in public, social settings. Mechanisms are valuable because they offer us as much assurance as is possible that the goals we want to be realized will, in fact, be realized. For example, the rules of basketball are designed to result in the best team having the most points at the end of a game. "Best" here isn't circular: If a quirk in the rules is tending to produce winners that aren't the best, the rule will be changed. This is how the shot clock was introduced. Weaker teams could hold on to the ball for large chunks of the game, resulting in skewed outcomes. Likewise, an auction is designed to put goods in the hands of those who value them the most. And faculty search committee is designed to produce the best hire.
 
