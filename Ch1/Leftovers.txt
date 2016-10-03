@@ -1,0 +1,14 @@
+## The normative problem created by these changes
+
+Traditional EA abstracts away each of these issues. In theory, Traditional EA should be robust enough to handle each of these scenarios. These scenarios should raise mere "implementation details." However, once you remove the assumption that the administrative state is an agent of Congress, the logic of Traditional EA electoral accountability falls apart. Recall, the problem for citizens is to design a system such that incumbents are sufficiently incentivized to act in the public interest. This is a special version of the more general principal-agent problem. [@Manin1999, p. 41] Yet if those making a substantial fraction of policy are not, in fact, the citizens' agents, there is no mechanism of control.
+
+
+# Normative updates to traditional electoral accountability
+
+It updates the traditional study of electoral accountability in two primary ways. Empirically, it reflects substantive changes in the institutional environments that surround the process of lawmaking. Normatively, contemporary EA takes a broader approach to legitimating the relationship between government and citizens. Recall, the empirical structure of the mechanism design is driven by background normative concerns. The growth of the administrative state necessitates a broader approach to accountability. Limiting accountability merely to elected representatives leaves a vast swath of political power unattended to.  
+
+Traditional EA explains the normative significance of the agency relationship between representatives and citizens. But the relationship between citizens and the rest of government is not explained. Some Traditional EA theorists have sought to incorporate an account of the administrative state into Traditional EA. These accounts treat the bureaucracy as agents of elected representatives. These accounts, however, assume that bureaucracies operate like an assembly line.^[See also [@Christiano2005]] In fact, agencies wield discretion to such a degree that they are not appropriately characterized as agents of elected representatives. [@Stewart1975]
+
+We can put the point more forcefully. The breadth of policymaking that happens outside of Congress undercuts the claim that Traditional EA makes about legitimating power relationships. Traditional EA does not explain how voter preferences are transmitted to agencies that create policy. This deficiency undermines the purpose of the Traditional EA account.
+
+Contemporary EA seeks to reinvigorate the normative force of the electoral mechanism. Rather than abstracting away the administrative state, it confronts it directly, and incorporates its role in its theory of electoral accountability. FORMALIZING KAGAN'S PRESIDENTIAL ADMINISTRATION.

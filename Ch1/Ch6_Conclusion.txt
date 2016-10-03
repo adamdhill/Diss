@@ -1,0 +1,35 @@
+The first three empirical Chapters of the dissertation elucidate key new insights into the contemporary political process. The final Chapter of the dissertation then incorporates those insights into a revised conception of electoral accountability, which I refer to as Contemporary Electoral Accountability ("CEA").^[CEA does not directly compete with Traditional EA. CEA is, by design, more concrete than Traditional EA. If CEA is incompatible with Traditional EA, then it is incumbent upon advocates of Traditional EA to update the theory.]
+
+
+
+# The normative problem created by these changes
+
+Traditional EA abstracts away each of these issues. In theory, Traditional EA should be robust enough to handle each of these scenarios. These scenarios should raise mere "implementation details." However, once you remove the assumption that the administrative state is an agent of Congress, the logic of Traditional EA electoral accountability falls apart. Recall, the problem for citizens is to design a system such that incumbents are sufficiently incentivized to act in the public interest. This is a special version of the more general principal-agent problem. [@Manin1999, p. 41] Yet if those making a substantial fraction of policy are not, in fact, the citizens' agents, there is no mechanism of control.
+
+
+# Normative updates to traditional electoral accountability
+
+It updates the traditional study of electoral accountability in two primary ways. Empirically, it reflects substantive changes in the institutional environments that surround the process of lawmaking. Normatively, contemporary EA takes a broader approach to legitimating the relationship between government and citizens. Recall, the empirical structure of the mechanism design is driven by background normative concerns. The growth of the administrative state necessitates a broader approach to accountability. Limiting accountability merely to elected representatives leaves a vast swath of political power unattended to.  
+
+Traditional EA explains the normative significance of the agency relationship between representatives and citizens. But the relationship between citizens and the rest of government is not explained. Some Traditional EA theorists have sought to incorporate an account of the administrative state into Traditional EA. These accounts treat the bureaucracy as agents of elected representatives. These accounts, however, assume that bureaucracies operate like an assembly line.^[See also [@Christiano2005]] In fact, agencies wield discretion to such a degree that they are not appropriately characterized as agents of elected representatives. [@Stewart1975]
+
+We can put the point more forcefully. The breadth of policymaking that happens outside of Congress undercuts the claim that Traditional EA makes about legitimating power relationships. Traditional EA does not explain how voter preferences are transmitted to agencies that create policy. This deficiency undermines the purpose of the Traditional EA account.
+
+Contemporary EA seeks to reinvigorate the normative force of the electoral mechanism. Rather than abstracting away the administrative state, it confronts it directly, and incorporates its role in its theory of electoral accountability. FORMALIZING KAGAN'S PRESIDENTIAL ADMINISTRATION.
+
+# What we know about voters
+
+The approach taken here, like the Traditional account, assumes the worst about elected officials. This assumption is important because the mechanism does not depend on the quality of officials.^[Compare Caselli and Morelli, considering the possibility that voters elect low-quality candidates. [@Caselli2004]] But what about the competence of voters? V.O. Key famously declared the voter to be the "rational god of vengeance and reward."[@Key1964, p. 568] Generations of scholars have tested that claim. Most famously, perhaps, the "Michigan School" argued that voters lack both information and competence. [@Malhotra2013] We are, by now, painfully familiar with data showing that voters lack what appear to be certain forms of crucial information. "Two of the most robust findings about American voters," Bendor et al. summarize, "are that few of them have coherent, detailed ideologies and few know much about politics." [@Bendor2011, p. 109]  As Arthur Lupia writes:
+
+When it comes to political information, there are two groups of people. One group understands that they are almost completely ignorance of almost every detail of almost every law and policy under which they live. The other group is delusional about how much they know. There is no third group. [@Lupia2015, p. 3]
+
+Some have sought to make a virtue of this ignorance. Fiorina argues that voters only need the most modest information about the economy to make electoral accountability work. [@Fiorina1982] Arthur Lupia argues that voters are rationally uninformed. It makes more sense, Lupia argues, for voters to simply take cues from party elites. [@Lupia1994]
+
+Others take a more pessimistic view of the situation. Some argue many citizens - those ignorant of certain facts - have a moral obligation not to vote. Others, citing "the depth of ignorance demonstrated by modern mass publics," go further. [@Bendor2011, p. 109] Democracy, Jason Brennan argues, is "the rule of the ignorant and the irrational, and it too often falls short." [@Brennan2016] Instead, we should be subject to the "rule of the knowledgeable." *Id.*
+
+These debates have persisted for a long time, and quite frankly it's hard to see much progress being made. Wading into debates about voter competence is unlikely to produce new insights. Is it possible to advance a theory of electoral accountability while avoiding  these debates?
+
+# An ongoing conversation 
+
+Mechanism design typically operates by identifying one problem, and identifying a fix for it. But, often, the solution can generate a *new* problem. By and large, mechanism designers have not tended to investigate these new problems that arise from their fixes. This dissertation does investigate these problems, and, what's more, it offers solutions to fix them. Of course, these solutions might *themselves* cause fresh problems. In this sense, the ideas presented here represent a part of an ongoing conversation about how to best accomplish democratic accountability, not a perfect solution.   
+
