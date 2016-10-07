@@ -159,7 +159,7 @@ The traditional electoral accountability story has nothing to say about these ty
 
 ## The when: incorporating background conditions
 
-If the first flaw is about who exercises power, and the second is about how power is exercised, the third flaw is about *when* power can be exercised. The traditional model assumes that congresspeople can change course when voters demand it. But this assumption sits uncomfortably with decades of jurisprudence holding that legal change must be slow and gradual, lest it upset stable background institutions and individuals' reasonable expectations.
+So far we have touched on who exercises power, and how power is exercised; the final empirical chapter in the dissertation looks at *when* power can be exercised. Under the traditional model, congresspeople can change course when voters demand it. But this assumption sits uncomfortably with decades of jurisprudence holding that legal change must be slow and gradual, lest it upset stable background institutions and individuals' reasonable expectations.
 
 Just as Traditional EA abstracts away the choice of tool to translate preference to policy, so too does it simply assume that a change in policy seamlessly translates to a change in regulation. Another way to put this is that Traditional EA treats policy change as costless. That is, it is assumed that, if individual preferences shift, there should be a concomitant shift in policy and in real-world regulation.  
 
