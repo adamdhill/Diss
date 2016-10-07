@@ -157,13 +157,13 @@ The second flaw with the traditional approach is about *how* power is exercised.
 
 The traditional electoral accountability story has nothing to say about these types of governance. If there were no relevant differences between using law and using nudges, then this would not be an issue. In fact, however, there is an important difference between the two. As Chapter Three shows, third party observers are much less likely to blame officials who use legal norms to regulate than they are to blame officials who use nudges to regulate. This implies that officials can escape blame through the use of newer means of governance. And as in Chapter Two, the ability to act yet escape blame undermines the logic of the traditional account. 
 
-## The when: incorporating background conditions
+## The when: must we delay the realization of citizen preferences? 
 
-So far we have touched on who exercises power, and how power is exercised; the final empirical chapter in the dissertation looks at *when* power can be exercised. Under the traditional model, congresspeople can change course when voters demand it. But this assumption sits uncomfortably with decades of jurisprudence holding that legal change must be slow and gradual, lest it upset stable background institutions and individuals' reasonable expectations.
+So far we have touched on who exercises power, and how power is exercised; the final empirical chapter in the dissertation looks at *when* power can be exercised. Under the traditional model, congresspeople can change course when voters demand it. But this assumption sits uncomfortably with decades of jurisprudence holding that legal change must be slow and gradual, lest it upset stable background institutions and individuals' reasonable expectations.  
 
-Just as Traditional EA abstracts away the choice of tool to translate preference to policy, so too does it simply assume that a change in policy seamlessly translates to a change in regulation. Another way to put this is that Traditional EA treats policy change as costless. That is, it is assumed that, if individual preferences shift, there should be a concomitant shift in policy and in real-world regulation.  
+Traditional electoral accountability stories assume that a change in policy seamlessly translates to a change in regulation. Another way to put this is that traditional electoral accountability treats policy change as costless: if individual preferences shift, regulation should follow suit. However, almost every legal philosopher and social scientist in the 20th century argues that must be stable in order to be effective. This is primarily due to the importance of maintaining reasonable expectations. 
 
-Our best thinking about law, however, complicates this picture. Law, almost every legal philosopher and social scientist in the 20th century argues, is the kind of thing that must be stable. This is primarily due to the importance of maintaining reasonable expectations. Meanwhile, social scientists have pointed out the difference between "law on the books" and "law in action."
+Chapter Four of the dissertation seeks to reconcile these competing visions. It shows how different individuals and corporate entities will respond differently to changes in law, depending on their background plans. It sketches a framework for tallying the costs and benefits of legal change. In so doing, it suggests a way for courts to determine how frequently law can change. 
 
 # A new brand of electoral accountability
 
